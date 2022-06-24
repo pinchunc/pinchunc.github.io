@@ -1,24 +1,11 @@
 ---
 title: "Pin-Chun Chen"
 description: |
-  About Me
+  Cognitive Neuroscientist
+  
+  Human Memory | Sleep | Electroencephalography (EEG) | Intracranial EEG | fMRI
 site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-```
-
-Cognitive Neuroscientist 
-
-Human Memory | Working Memory | Sleep | Electroencephalography (EEG) | Intracranial EEG | fMRI
-
 Pin-Chun is a postdoctoral researcher in Dr. Brett Foster's lab at Perelman School of Medicine at the University of Pennsylvania, USA. She is currently co-advised by Dr Bernhard Staresina at Oxford University, UK. 
 
 She earned her Ph.D. in Cognitive Sciences from the University of California, Irvine, in 2022 under the supervision of Dr. Sara Mednick. The central focus of her research is to utilize  advanced neuroimaging techniques during sleep to characterize signatures of memory processing that enhance our congitive functions.

@@ -37,20 +37,6 @@ navbar:
     - text: "Technical Projects"
       href: r_projects.html
 
-navbar:
-  left:
-  - text: Home
-    href: index.html
-    icon: fa-home
-  - text: About
-    href: about.html
-    icon: fa-book-open
-  right:
-  - href: https://github.com/rstudio4edu
-    icon: fa-github
-  - href: https://twitter.com/rstudio
-    icon: fa-twitter
-    
 output: 
   distill::distill_article:
     css: style.css
