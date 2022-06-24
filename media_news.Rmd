@@ -1,0 +1,22 @@
+---
+title: "Media & News"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Shiny App Play Gomoku
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_A7VU1deEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Implement an R package and Shiny app “ggomoku” that allows users to play the board game gomoku
+- Design a personal professional website using R to display “ggomoku”
+
+[![News Link](../img/news2022.jpg)](https://www.socsci.uci.edu/newsevents/news/2022/2022-05-31-pin-chun-chen-shout-out)
+
+[![News Link](../img/news2022.jpg)](https://news.uci.edu/2021/12/14/uci-led-study-is-first-to-find-that-long-and-short-term-memory-vie-for-brain-space/?fs=e&s=cl)
+
+[![News Link](../img/news2022.jpg)](https://www.socsci.uci.edu/newsevents/news/2021/2021-11-02-pin-chun-chen-cog-sci.php?fbclid=IwAR0Q6nRH-dZj6uk-OKLmjxCSEBkic7P8LuY5CX4zTQkWy3b_53RMWOwrXDA&fs=e&s=cl)
+
+[![News Link](../img/news2022.jpg)](https://www.socsci.uci.edu/newsevents/news/2022/2022-05-31-pin-chun-chen-shout-out)

@@ -15,16 +15,18 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 ```
 
-Hello, I’m Pin-Chun. I am a Cognitive Science Ph.D. candidate at the University of California, Irvine, preparing to graduate sometime in 2021-2022. My research interests are sleep and cognition, including the role of aging, cardiac autonomic activity, and brain stimulation on sleep-dependent cognitive enhancement.
+Cognitive Neuroscientist 
+
+Human Memory | Working Memory | Sleep | Electroencephalography (EEG) | Intracranial EEG | fMRI
+
+Pin-Chun is a postdoctoral researcher in Dr. Brett Foster's lab at Perelman School of Medicine at the University of Pennsylvania, USA. She is currently co-advised by Dr Bernhard Staresina at Oxford University, UK. 
+
+She earned her Ph.D. in Cognitive Sciences from the University of California, Irvine, in 2022 under the supervision of Dr. Sara Mednick. The central focus of her research is to utilize  advanced neuroimaging techniques during sleep to characterize signatures of memory processing that enhance our congitive functions.
 
 ```{r out.width="30%", fig.align='center', out.extra='style="background-color:#FF928B; padding:10px;"'}
 knitr::include_graphics(here::here("img/head.jpg"))
 ```
 
-I was born and grew up in Kaohsiung, a city in southern Taiwan. In 2013, I moved to Taipei to pursue my undergraduate studies at National Chengchi University, where I worked with Dr. Chien-Ming Yang in the Sleep Lab. In 2017, I received my B.S. in Psychology and B.Ed. in Education with 1st Class Honors. After graduation, I moved to Irvine to work on my Ph.D. research with Dr. Sara Mednick in the Sleep and Cognition Lab at the University of California, Irvine. In the meanwhile, I completed a Master in Statistics from the Department of Statistics at UC Irvine in 2020. A list of my peer-reviewed manuscripts and abstracts can be found on Google Scholar or Research Gate.
+More about me...
 
-Besides research activities, I consider myself an activist for LGBTQ+ rights. I’m also a former percussionist at Taiwan Soloists Symphony Orchestra, National Taiwan Symphony Orchestra Youth Camp, and National Taiwan University Symphony Orchestra. During my free time, I enjoy hiking, traveling, snowboarding, and cooking.
-
-```{r out.width="30%", fig.align='center', out.extra='style="background-color:#FF928B; padding:10px;"'}
-knitr::include_graphics(here::here("img/percussion.jpg"))
-```
+Pin-Chun was born and grew up in Kaohsiung, a city in southern Taiwan. In 2013, she moved to Taipei to pursue undergraduate studies at National Chengchi University, where she worked with Dr. Chien-Ming Yang in the Sleep Lab. In 2017, she received my B.S. in Psychology and B.Ed. in Education with 1st Class Honors. After graduation, Pin-Chun moved to Irvine to work on my Ph.D. research with Dr. Sara Mednick in the Sleep and Cognition Lab at the University of California, Irvine. In the meanwhile, she completed a Master in Statistics from the Department of Statistics at UC Irvine in 2020. A list of her peer-reviewed manuscripts and abstracts can be found on Google Scholar or Research Gate.

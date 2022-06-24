@@ -9,11 +9,18 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 # Education
 ### University of California, Irvine
-- **Ph.D. in Cognitive Science** (Sep 2017 – May 2022 Expected)
-  + Dissertation Title: Heart-brain Interaction during NREM Sleep Drives Sleep-dependent Memory Gains. (Advisor: Dr. Sara Mednick)
-  + Dissertation Committee: Dr. Julian Thayer, Dr. Bryce Mander, Dr. Susanne Jaeggi, Dr. Greg Hickok, Dr. Aaron Bornstein
-
+- **Ph.D. in Cognitive Sciences** (Sep 2017 – May 2022)
+  - GPA: 3.99 / 4
+  - Dissertation Title: Heart-brain Interaction during NREM Sleep Drives Sleep-dependent Memory Gains. (Advisor: Dr. Sara Mednick)
+  - Dissertation Committee: Dr. Julian Thayer, Dr. Bryce Mander, Dr. Susanne Jaeggi, Dr. Greg Hickok, Dr. Aaron Bornstein
+  
+\newpage
 - **MS in Statistics** (Sep 2018 – June 2020)
+  + GPA: 3.74 / 4
+- [**Preparing for a Faculty Career Certificate Program**](https://github.com/pinchunc/certificates/blob/main/Pin-Chun%20Chen_PFFC%20Certificate.pdf) (Summer 2021)
+- [**Mentoring Excellence Program**](https://github.com/pinchunc/certificates/blob/main/Pin-Chun%20Chen_MEP%20Certificate.pdf) (Summer 2021)
+- [**Cascading Mentorship Certificate**] (March – June 2021)
+- [**Public Speaking Certificate**](https://github.com/pinchunc/certificates/blob/main/Public%20Speaking%20Certificate%20-%20Pin-Chun%20Chen.pdf) (Jan – March 2021)
 - **DTEI Certificate in Teaching Excellence Program** (Jul – Nov 2020)
 - [**DTEI Course Design Certification Program**](https://raw.githubusercontent.com/pinchunc/certificates/013665983e1a91defe6ad0d849e24c195d680b8d/CDCP.pdf) (Aug 2020)
 - [**DTEI Certificate in Remote Instruction**](https://raw.githubusercontent.com/pinchunc/certificates/013665983e1a91defe6ad0d849e24c195d680b8d/CRI.pdf) (July - Aug 2020) 
@@ -30,16 +37,26 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### National Chengchi University
 - **B.S. in Psychology** (Sep 2013 – July 2017)
+  + GPA: 4 / 4
 - **B.Ed. in Education** (Sep 2013 – July 2017)
+  + GPA: 4 / 4
 
 # Awards & Honors
-- DTEI Graduate Fellowship, University of California, Irvine, 2020-2021
-- Graduate Student Researcher Award, University of California, Irvine, 2017-2018
-- Graduate Teaching Assistant Award, University of California, Irvine, 2018-2022
-- Government Scholarship to Study Abroad, Ministry of Education, Taiwan, 2017–2019
-- Conference Travel Grant, University of California, Irvine, 2018
-- NVIDIA GPU Grant, NVIDIA Corporation 2017
-- Student of Honor for Presidential Award, National Chengchi University, 2014-2017
-- Honorary Member of the Phi Tau Phi Scholastic Honor Society, Taiwan, since 2017
-- Outstanding Graduating Award, National Chengchi University, 2017 
-- Dr. Fa-Mi Chen Memorial Scholarship, Taiwan, 2015
+- 2019-2022	Undergraduate Research Grant Recipient Advisor (3 times), UC Irvine ($2,400)
+- 2022 AGS Recovery Fellowship, Associated Graduate Students, UC Irvine ($1,000)
+- 2022 Spring Conference Grant Award, Associated Graduate Students, UC Irvine ($250)
+- 2021 Grant Writing Fellowship, School of Social Sciences, UC Irvine ($7,000)
+- 2021 Cascade Mentoring Fellow, Graduate Division, UC Irvine ($6,000)
+- 2021 Jean-Claude Falmagne Research Award, UC Irvine ($3,000)
+- 2021 Renée Harwick Advanced Graduate Student Award, UC Irvine ($1,000)
+- 2021 Outstanding Scholarship Award, School of Social Sciences, UC Irvine ($250)
+- 2021 Virtual Conference Grant Award, Associated Graduate Students, UC Irvine ($250)
+- 2021 Grad Slam Semi-Finalist, Graduate Division, UC Irvine (Honorary)
+- 2020 DTEI Graduate Fellow, Division of Teaching Excellence and Innovation, UC Irvine ($5,000)
+- 2017 NVIDIA GPU Grant, NVIDIA Corporation ($2,000)
+- 2017-2019	Government Scholarship to Study Abroad, Ministry of Education, Taiwan ($32,000)
+- 2017 Honorary member of the Phi Tau Phi Scholastic Honor Society (Honorary)
+- 2017 Outstanding Graduating Award (1st Class Honor), National Chengchi University, Taiwan
+- 2014-2017	Student of Honor Presidential Award (6 times), National Chengchi University, Taiwan ($1,000)
+- 2015 Outstanding Undergraduate Student Award, Lung Shan Temple, Taiwan ($350)
+- 2015 Dr. Fa-Mi Chen Memorial Scholarship, Taiwan ($100)

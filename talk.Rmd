@@ -8,11 +8,29 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+- Heart-brain Interaction during NREM Sleep Drives Sleep-dependent Memory Gains. Cognitive Science Dissertation Talk at UCI, Irvine (2022, May)
+
+- The role of the autonomic nervous system in the science of sleep. Symposium speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+
+- The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. Speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+
+- Competitive dynamics underlie cognitive improvements during sleep. Speaker at the 2021 Virtual Working Memory Symposium (Virtual; 2021, June)
+
+- The sleeping brain switches between working memory and long-term memory processing. Data blitz speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA (2021, May)
+
+- Trust your heart in sleep to fight against cognitive aging. Speaker at UCI Center for the Neurobiology of Learning and Memory Award Ceremony, Irvine, CA (2021, May)
+
+- Neural mechanisms of sleep and memory consolidation. Guest lecture on Psych 129 Sleep & Memory at UCI, Virtual (Virtual; 2021, May)
+
+- The sleeping brain switches between frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. UCI Associated Graduate Student Virtual Symposium (Virtual; 2021, April)
+
+- Trusting Your Heart during Sleep in the Fight Against Cognitive Aging. Speaker at the UCI Grad Slam Semi-Final Competition (Virtual; 2021, Jan)
+
 - Understanding Sleep Disorders via Subjective and Objective Assessments. Guest lecture on Psych 121S Sleep & Consciousness at UCI (Virtual; 2020, Nov)
 
 - Sleep Interventions to Boost Memory. Guest lecture on Psych 121S Sleep & Consciousness at UCI (Virtual; 2020, Nov)
 
-- [Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory.](https://youtu.be/sdmTcvzz1VA) Speaker at the 2020 Neuromatch conference 3.0 (Virtual; 2020, Oct)
+- Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory. Speaker at the 2020 Neuromatch conference 3.0 (Virtual; 2020, Oct)
 
 - Unsupervised Learning of Sleep Stages from Polysomnography (PSG) Data. 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
 
