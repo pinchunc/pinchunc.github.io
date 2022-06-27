@@ -8,16 +8,6 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Division in Teaching Excellence and Innovation (DTEI), UC Irvine
-#### DTEI Graduate Fellow, 2020-2021
-Psych Fundamentals, Summer 2020, with Dr. Megan Peters & Dr. Mike D’Zmura
-
-### Department of Statistics, UC Irvine                                       
-#### Lab Instructor/ Teaching Assistant
-[Basic Statistics](http://catalogue.uci.edu/allcourses/stats/), Winter 2020, with Dr. Lee Kucera
-
-[Introduction to Biostatistics](http://catalogue.uci.edu/allcourses/stats/), Spring 2020, with Dr. Brigitte Baldi
-
 ### Department of Cognitive Science, UC Irvine 
 #### Lecturer of Record
 Probability and Statistics, Summer 2021
@@ -41,6 +31,16 @@ Probability and Statistics, Winter 2021
 [Psych Fundamentals](http://catalogue.uci.edu/allcourses/psych/), Summer 2019, with Dr. Alex Bower
 
 Psychology of Sleep & Consciousness, Fall 2019, with Dr. Sara Mednick
+
+### Division in Teaching Excellence and Innovation (DTEI), UC Irvine
+#### DTEI Graduate Fellow, 2020-2021
+Psych Fundamentals, Summer 2020, with Dr. Megan Peters & Dr. Mike D’Zmura
+
+### Department of Statistics, UC Irvine                                       
+#### Lab Instructor/ Teaching Assistant
+[Basic Statistics](http://catalogue.uci.edu/allcourses/stats/), Winter 2020, with Dr. Lee Kucera
+
+[Introduction to Biostatistics](http://catalogue.uci.edu/allcourses/stats/), Spring 2020, with Dr. Brigitte Baldi
 
 ### Department of Psychology, National Chengchi University
 #### Lab Instructor/ Teaching Assistant

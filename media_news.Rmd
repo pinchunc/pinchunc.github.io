@@ -8,10 +8,11 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-### Shiny App Play Gomoku
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_A7VU1deEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - Implement an R package and Shiny app “ggomoku” that allows users to play the board game gomoku
 - Design a personal professional website using R to display “ggomoku”
+
+### News
 
 [![News Link](../img/news2022.jpg)](https://www.socsci.uci.edu/newsevents/news/2022/2022-05-31-pin-chun-chen-shout-out)
 
