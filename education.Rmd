@@ -42,6 +42,9 @@ knitr::opts_chunk$set(echo = FALSE)
   + GPA: 4 / 4
 
 # Awards & Honors
+- 2024-2026	Junior Research Fellowship (£10K), Wolfson College, University of Oxford
+- 2024-2025	Wellcome Centre for Integrative Neuroimaging Seed Grant (£15K), University of Oxford
+- 2023-2025	Marie Skłodowska-Curie Postdoctoral Fellowship (€221K), Horizon Europe
 - 2019-2022	Undergraduate Research Grant Recipient Advisor (3 times), UC Irvine ($2,400)
 - 2022 AGS Recovery Fellowship, Associated Graduate Students, UC Irvine ($1,000)
 - 2022 Spring Conference Grant Award, Associated Graduate Students, UC Irvine ($250)

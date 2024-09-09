@@ -9,6 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 **TALKS AT SCIENTIFIC CONFERENCES**
+
 - Hippocampal ripples during offline periods predict motor sequence learning. Data Blitz at the Annual Meeting of Cognitive Neuroscience Society, Toronto, Canada (2024, April)
 
 - Integrating measurements of the autonomic nervous system and heart-brain interactions with sleep and memory research. Speaker at the 3rd International Sleep Replay Workshop, Huntington Beach, CA, USA (2023, April)
@@ -34,6 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Speaker at the 2020 Virtual Working Memory Symposium (Virtual; 2020, June)
 
 - The Roles of Autonomic Activities during Sleep on Cognition. Speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory (2019, May)
+
 
 **INVITED TALKS**
 
