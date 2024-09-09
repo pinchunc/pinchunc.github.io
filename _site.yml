@@ -1,5 +1,6 @@
 name: "personal-website2"
 title: "Pin-Chun Chen"
+author: "Pin-Chun Chen"
 description:
 output_dir: "docs"
 navbar:
