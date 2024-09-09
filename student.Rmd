@@ -9,8 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 My students in the experimental psychology bought me a brain specimen coaster set as a thank you gift at the end of the quarter. Very heart warming!
 
-```{r out.width="30%", fig.align='center', out.extra='style="background-color:#FF928B; padding:20px;"'}
+```{r out.width="30%", fig.align='center'}
 knitr::include_graphics(here::here("img/specimen.jpg"))
+# , out.extra='style="background-color:#FF928B; padding:20px;"'
 ```
 
 **Students’ comments on TA evaluations**
@@ -26,3 +27,28 @@ knitr::include_graphics(here::here("img/specimen.jpg"))
 *"She is very welcoming and approachable, which made me unafraid to ask her for help. She is very knowledgeable about the subject matter and was very communicative and responsive, both in and outside of class. Pin Chun was willing to discuss her personal research with us, which was very interesting to hear about and valuable information in assessing my own research interests."*
 
 *"She gave out really clear and organized instructions. I can tell that she wants everyone from the class to understand the material and do well in the class. She is a really nice person, easy to communicate and reach. One of the best TA at UCI!"*
+
+**Selected teaching evaluations**
+
+<style>
+table {
+  background-color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+th {
+  background-color: #f4f4f4;
+}
+</style>
+
+| Course                                      | Role       | Session       | # Of Students | Prepared and clearly organized | Responsive, accessible, and helpful | Teaching Effectiveness | Scale          |
+|---------------------------------------------|------------|---------------|---------------|-------------------------------|--------------------------------------|------------------------|----------------|
+| Sleep and Consciousness                     | TA         | Fall 2020     | 136           | 4.63                          | 4.58                                 | 4.35                   | 1=Low, 5=High  |
+| Probability and Statistics                  | Instructor | Summer 2021   | 59            | 7.23                          | 8.13                                 | 7.77                   | 1=Low, 9=High  |
+| Probability and Statistics                  | TA         | Spring 2021   | 144           | 4.69                          | 4.69                                 | 4.62                   | 1=Low, 5=High  |
+| Research Methods in Experimental Psychology | TA         | Winter 2019   | 30            | 4.82                          | 5                                    | 4.82                   | 1=Low, 5=High  |

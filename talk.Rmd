@@ -9,13 +9,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 **TALKS AT SCIENTIFIC CONFERENCES**
-Hippocampal ripples during offline periods predict motor sequence learning. Data Blitz at the Annual Meeting of Cognitive Neuroscience Society, Toronto, Canada (2024, April)
-Integrating measurements of the autonomic nervous system and heart-brain interactions with sleep and memory research. Speaker at the 3rd International Sleep Replay Workshop, Huntington Beach, CA, USA (2023, April)
-Working and episodic memory vie for resources during sleep. Open-paper speaker at Learning & Memory 2023, Huntington Beach, CA, USA (2023, April)
-The role of the autonomic nervous system in the science of sleep. Symposium speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
-The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. Speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
-Competitive dynamics underlie cognitive improvements during sleep. Speaker at the 2021 Virtual Working Memory Symposium (Virtual; 2021, June)
-The sleeping brain switches between working memory and long-term memory processing. Data blitz speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA (2021, May)
+- Hippocampal ripples during offline periods predict motor sequence learning. Data Blitz at the Annual Meeting of Cognitive Neuroscience Society, Toronto, Canada (2024, April)
+
+- Integrating measurements of the autonomic nervous system and heart-brain interactions with sleep and memory research. Speaker at the 3rd International Sleep Replay Workshop, Huntington Beach, CA, USA (2023, April)
+
+- Working and episodic memory vie for resources during sleep. Open-paper speaker at Learning & Memory 2023, Huntington Beach, CA, USA (2023, April)
+
+- The role of the autonomic nervous system in the science of sleep. Symposium speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+
+- The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. Speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+
+- Competitive dynamics underlie cognitive improvements during sleep. Speaker at the 2021 Virtual Working Memory Symposium (Virtual; 2021, June)
+
+- The sleeping brain switches between working memory and long-term memory processing. Data blitz speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA (2021, May)
 
 - The sleeping brain switches between frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. UCI Associated Graduate Student Virtual Symposium (Virtual; 2021, April)
 
