@@ -1,9 +1,5 @@
 ---
 title: "CV"
-author: 
-  - name: "Pin-Chun Chen"
-    affiliation: "Your Affiliation"
-    email: "your.email@example.com"
 description:
 site: distill::distill_website
 ---
@@ -11,7 +7,8 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-<iframe src="img/CV_CHEN_PIN-CHUN.pdf" width="100%" height="100%">
-<object data="img/CV_CHEN_PIN-CHUN.pdf" type="application/pdf" height="120%" width="120%">
-    <iframe src="img/CV_CHEN_PIN-CHUN.pdf"></iframe>
+<iframe src="img/CV_CHEN_PIN-CHUN.pdf" width="100%" height="800px">
+<object data="img/CV_CHEN_PIN-CHUN.pdf" type="application/pdf" width="100%" height="800px">
+    <iframe src="img/CV_CHEN_PIN-CHUN.pdf" width="100%" height="800px"></iframe>
 </object>
+</iframe>
