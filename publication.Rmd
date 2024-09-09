@@ -9,7 +9,23 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 My [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Pin-Chun-Chen-6) Profiles
 
-- **Pin-Chun Chen**, Jing Zhang, Julian F. Thayer, and Sara C. Mednick. (Minor Revision) Understanding the roles of central and autonomic activity during sleep in the improvement of working memory and episodic memory. *Proceedings of the National Academy of Sciences*
+**UNDER REVIEW / IN PREP**
+
+- Pin-Chun Chen, Jenny Stritzelberger, Hajo Hamer, Bernhard Staresina (In Prep) Hippocampal ripples during offline periods predict motor sequence learning.
+
+- Jing Zhang*, Pin-Chun Chen*, Sara C. Mednick, Arielle Tambini (Under Review) Slow Oscillations Modulate Functional Brain Changes Supporting Working Memory. bioRxiv; doi: https://doi.org/10.1101/2024.05.14.594161
+
+- Allison Morehouse, Katherine Simon, Pin-Chun Chen, Sara C. Mednick (Under Review) Heart Rate Variability During REM Sleep is Associated with Reduced Negative Memory Bias. bioRxiv; doi: https://doi.org/10.1101/2024.08.30.610388
+
+- Alessandra E. Shuster, Allison Morehouse, Elizabeth A. McDevitt, Pin-Chun Chen, Lauren N. Whitehurst, Jing Zhang, Negin Sattari, Tracy Uzoigwe, Ali Ekhlasi, Denise Cai, Katherine Simon, Niels Niethard, Sara C. Mednick (Under Review) REM Refines and Rescues Memory Representations: A New Theory. Sleep Advances.
+
+- Anjana Subramoniam, Pin-Chun Chen, Negin Sattari, Sara Mednick, Lauren Whitehurst (Under Review) Physiological sleep correlates of positive and negative affect in younger and older adults. Psychophysiology.
+
+**JOURNAL ARTICLES**
+
+- [Alessandra Shuster, **Pin-Chun Chen**, Hamid Niknazar, Elizabeth McDevitt, Beth Lopour, and Sara Mednick. (2024) Novel Electrophysiological Signatures of Learning and Forgetting in Human REM Sleep. *Journal of Neuroscience*]
+
+- [**Pin-Chun Chen**, Jing Zhang, Julian F. Thayer, and Sara C. Mednick. (Minor Revision) Understanding the roles of central and autonomic activity during sleep in the improvement of working memory and episodic memory. *Proceedings of the National Academy of Sciences*](https://www.pnas.org/doi/full/10.1073/pnas.2123417119)
 
 - [**Pin-Chun Chen**, Hamid Niknazar, William A Alaynick, Lauren N. Whitehurst, and Sara C. Mednick (2021) Competitive dynamics underlie cognitive improvements during sleep. *Proceedings of the National Academy of Sciences*, 118(51), e2109339118.](https://doi.org/10.1073/pnas.2109339118)
 

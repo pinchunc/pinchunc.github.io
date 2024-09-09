@@ -1,9 +1,12 @@
 ---
 title: "CV"
+author: 
+  - name: "Pin-Chun Chen"
+    affiliation: "Your Affiliation"
+    email: "your.email@example.com"
 description:
 site: distill::distill_website
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

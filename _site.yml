@@ -1,6 +1,9 @@
 name: "personal-website2"
 title: "Pin-Chun Chen"
-author: "Pin-Chun Chen"
+author:
+  - name: "Pin-Chun Chen"
+    affiliation: "Your Affiliation"
+    email: "your.email@example.com"
 description:
 output_dir: "docs"
 navbar:
