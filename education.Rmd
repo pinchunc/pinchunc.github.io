@@ -7,6 +7,18 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+# Appointments
+### University of Oxford
+Postdoctoral Fellow
+Department of Experimental Psychology, Oxford University, UK (Advisor: Dr. Bernhard Staresina)
+
+### University of Pennsylvania
+Postdoctoral Fellow
+Department of Neurosurgery, University of Pennsylvania, PA, USA (Advisor: Dr. Brett Foster)
+
+\newpage
+
 # Education
 ### University of California, Irvine
 - **Ph.D. in Cognitive Sciences** (Sep 2017 – May 2022)
@@ -17,6 +29,11 @@ knitr::opts_chunk$set(echo = FALSE)
 \newpage
 - **MS in Statistics** (Sep 2018 – June 2020)
   + GPA: 3.74 / 4
+  
+\newpage
+
+# Certificates
+
 - [**Preparing for a Faculty Career Certificate Program**](https://github.com/pinchunc/certificates/blob/main/Pin-Chun%20Chen_PFFC%20Certificate.pdf) (Summer 2021)
 - [**Mentoring Excellence Program**](https://github.com/pinchunc/certificates/blob/main/Pin-Chun%20Chen_MEP%20Certificate.pdf) (Summer 2021)
 - [**Cascading Mentorship Certificate**] (March – June 2021)
