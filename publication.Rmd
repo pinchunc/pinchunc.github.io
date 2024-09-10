@@ -8,19 +8,21 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 My [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Pin-Chun-Chen-6) Profiles
+\* co-first authors
 
 **UNDER REVIEW / IN PREP**
 
-- *Pin-Chun Chen*, Jenny Stritzelberger, Hajo Hamer, Bernhard Staresina (In Prep) Hippocampal ripples during offline periods predict motor sequence learning.
+- **Pin-Chun Chen**, Jenny Stritzelberger, Hajo Hamer, Bernhard Staresina (In Prep) Hippocampal ripples during offline periods predict motor sequence learning.
 
-- Jing Zhang, *Pin-Chun Chen*, Sara C. Mednick, Arielle Tambini (Under Review) Slow Oscillations Modulate Functional Brain Changes Supporting Working Memory. bioRxiv; doi: https://doi.org/10.1101/2024.05.14.594161
+- Jing Zhang\*, **Pin-Chun Chen**\*, Sara C. Mednick, Arielle Tambini (Under Review) Slow Oscillations Modulate Functional Brain Changes Supporting Working Memory. bioRxiv; doi: https://doi.org/10.1101/2024.05.14.594161
 
-- Allison Morehouse, Katherine Simon, *Pin-Chun Chen*, Sara C. Mednick (Under Review) Heart Rate Variability During REM Sleep is Associated with Reduced Negative Memory Bias. bioRxiv; doi: https://doi.org/10.1101/2024.08.30.610388
+- Allison Morehouse, Katherine Simon, **Pin-Chun Chen**, Sara C. Mednick (Under Review) Heart Rate Variability During REM Sleep is Associated with Reduced Negative Memory Bias. bioRxiv; doi: https://doi.org/10.1101/2024.08.30.610388
 
-- Alessandra E. Shuster, Allison Morehouse, Elizabeth A. McDevitt, *Pin-Chun Chen*, Lauren N. Whitehurst, Jing Zhang, Negin Sattari, Tracy Uzoigwe, Ali Ekhlasi, Denise Cai, Katherine Simon, Niels Niethard, Sara C. Mednick (Under Review) REM Refines and Rescues Memory Representations: A New Theory. Sleep Advances.
+- Alessandra E. Shuster, Allison Morehouse, Elizabeth A. McDevitt, **Pin-Chun Chen**, Lauren N. Whitehurst, Jing Zhang, Negin Sattari, Tracy Uzoigwe, Ali Ekhlasi, Denise Cai, Katherine Simon, Niels Niethard, Sara C. Mednick (Under Review) REM Refines and Rescues Memory Representations: A New Theory. Sleep Advances.
 
-- Anjana Subramoniam, *Pin-Chun Chen*, Negin Sattari, Sara Mednick, Lauren Whitehurst (Under Review) Physiological sleep correlates of positive and negative affect in younger and older adults. Psychophysiology.
+- Anjana Subramoniam, **Pin-Chun Chen**, Negin Sattari, Sara Mednick, Lauren Whitehurst (Under Review) Physiological sleep correlates of positive and negative affect in younger and older adults. Psychophysiology.
 
+\newpage
 \newpage
 
 **JOURNAL ARTICLES**
@@ -37,7 +39,7 @@ My [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en
 
 - [**Pin-Chun Chen**, Negin Sattari, Lauren N. Whitehurst, and Sara C. Mednick (2021) Age‐related losses in cardiac autonomic activity during a daytime nap. *Psychophysiology*, 58(7), e13701.](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13701)
 
-- [**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2020) Autonomic activity during a daytime nap facilitates working memory improvement. *Journal of Cognitive Neuroscience*, 32(10), 1963-1974.](https://github.com/pinchunc/papers/blob/main/jocn_AutonomicActivityduringaDaytimeNap.pdf)
+- [**Pin-Chun Chen**\*, Lauren N. Whitehurst\*, Mohsen Naji, and Sara C. Mednick (2020) Autonomic activity during a daytime nap facilitates working memory improvement. *Journal of Cognitive Neuroscience*, 32(10), 1963-1974.](https://github.com/pinchunc/papers/blob/main/jocn_AutonomicActivityduringaDaytimeNap.pdf)
 
 - [**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2020) Autonomic/central coupling benefits working memory in healthy young adults. *Neurobiology of Learning and Memory*, 173, 107267.](https://www.sciencedirect.com/science/article/abs/pii/S1074742720301118)
 

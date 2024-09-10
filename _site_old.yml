@@ -38,8 +38,8 @@ navbar:
     - text: "Media & News"
       href: media_news.html
       
-    - text: "Awards"
-      href: awards.html
+    - text: "Technical Projects"
+      href: r_projects.html
 
 output: 
   distill::distill_article:
