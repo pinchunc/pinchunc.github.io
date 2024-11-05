@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **TALKS AT SCIENTIFIC CONFERENCES**
 
+- Simultaneous EEG-MEG sleep recording and source localization reveal precise spatial temporal distribution of spindle activity during sleep. MEG-UKI Conference, Birmingham, UK (2024, Oct)
+
 - Hippocampal ripples during offline periods predict motor sequence learning. Data Blitz at the Annual Meeting of Cognitive Neuroscience Society, Toronto, Canada (2024, April)
 
 - Integrating measurements of the autonomic nervous system and heart-brain interactions with sleep and memory research. Speaker at the 3rd International Sleep Replay Workshop, Huntington Beach, CA, USA (2023, April)
@@ -38,6 +40,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 **INVITED TALKS**
+
+- SLUMBER – Spatiotemporal Localization Using MEG-EEG for Brain-wide Events during NREM. (2024, Oct) Oxford Sleep Initiative Meeting, Oxford, UK (2024, Oct)
 
 - The central-autonomic seesaw of sleep-dependent episodic memory and working memory improvements. (2023, April) Seminar Series at Project TYRA (Taiwanese Young Researcher Association)
 
