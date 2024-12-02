@@ -3,7 +3,7 @@ title: "Pin-Chun Chen, PhD"
 description: |
   Cognitive Neuroscientist
   
-  Human Memory | Sleep | EEG | Intracranial EEG | fMRI | MEG
+  Human Memory | Sleep | EEG | Intracranial EEG | fMRI | MEG | HRV
 site: distill::distill_website
 ---
 ```{r echo = FALSE, out.width="30%"}
