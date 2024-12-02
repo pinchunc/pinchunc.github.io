@@ -18,7 +18,7 @@ navbar:
     - text: "Publications"
       href: publication.html
       
-    - text: "Presentations & Talks"
+    - text: "Presentations"
     - menu:
         - text: "Oral Presentations/ Invited Talks"
           href: talk.html
@@ -31,15 +31,15 @@ navbar:
           href: teaching.html
         - text: "Students' Feedback"
           href: student.html
-                
-    - text: "CV"
-      href: cv.html
       
     - text: "Media & News"
       href: media_news.html
       
     - text: "Awards"
       href: awards.html
+                      
+    - text: "CV"
+      href: cv.html
 
 output: 
   distill::distill_article:
