@@ -32,6 +32,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **MENTEE-LED POSTERS**
 
+Manqi Sha, **Pin-Chun Chen**, Yvonne Chen, Brett Foster, Bernhard Staresina (2024, Dec) Coupled Sleep Rhythms in Human Hippocampus Support Memory Consolidation. Poster at the 4th International Sleep Replay Workshop (Virtual)
+
 Alison B. Morehouse, Katharine C. Simon, Jing Zhang, **Pin-Chun Chen**, Lauren N. Whitehurst, Sara C. Mednick (2023, April) Does cardiac autonomic variation across sleep stages differentially impact emotional and neutral memory consolidation? Poster at Learning & Memory 2023, Huntington Beach, CA, USA
 
 Alessandra Shuster, **Pin-Chun Chen**, Hamid Niknazar, Sara C. Mednick (2023, April) Identifying Novel Markers of Memory in REM Sleep. Poster at the International Conference on Learning & Memory 2023, Huntington Beach, CA, USA
