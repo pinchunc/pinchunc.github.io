@@ -9,9 +9,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Awards & Honors
+- 2025 Post-Doctoral Fellow Award, Cognitive Neuroscience Society
 - 2024 Best Poster Presentation Award, MEG-UKI Conference
 - 2024-2026	Junior Research Fellowship (£10K), Wolfson College, University of Oxford
-- 2024-2025	Wellcome Centre for Integrative Neuroimaging Seed Grant (£15K), University of Oxford
+- 2024-2025	Wellcome Centre for Integrative Neuroimaging Seed Grant (£25K), University of Oxford
 - 2023-2025	Marie Skłodowska-Curie Postdoctoral Fellowship (€221K), Horizon Europe
 - 2019-2022	Undergraduate Research Grant Recipient Advisor (3 times), UC Irvine ($2,400)
 - 2022 AGS Recovery Fellowship, Associated Graduate Students, UC Irvine ($1,000)
