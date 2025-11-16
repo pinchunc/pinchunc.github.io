@@ -10,22 +10,22 @@ knitr::opts_chunk$set(echo = FALSE)
 My [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Pin-Chun-Chen-6) Profiles
 \* co-first authors
 
-**UNDER REVIEW / IN PREP**
+**UNDER REVIEW**
 
-- **Pin-Chun Chen**, Jenny Stritzelberger, Hajo Hamer, Bernhard Staresina (In Prep) Hippocampal ripples during offline periods predict motor sequence learning.
+- Jing Zhang\*, **Pin-Chun Chen**\*, Sara C. Mednick, Arielle Tambini (Revision) Slow Oscillations Modulate Functional Brain Changes Supporting Working Memory. bioRxiv; doi: https://doi.org/10.1101/2024.05.14.594161
 
-- Jing Zhang\*, **Pin-Chun Chen**\*, Sara C. Mednick, Arielle Tambini (Under Review) Slow Oscillations Modulate Functional Brain Changes Supporting Working Memory. bioRxiv; doi: https://doi.org/10.1101/2024.05.14.594161
-
-- Allison Morehouse, Katherine Simon, **Pin-Chun Chen**, Sara C. Mednick (Under Review) Heart Rate Variability During REM Sleep is Associated with Reduced Negative Memory Bias. bioRxiv; doi: https://doi.org/10.1101/2024.08.30.610388
-
-- Alessandra E. Shuster, Allison Morehouse, Elizabeth A. McDevitt, **Pin-Chun Chen**, Lauren N. Whitehurst, Jing Zhang, Negin Sattari, Tracy Uzoigwe, Ali Ekhlasi, Denise Cai, Katherine Simon, Niels Niethard, Sara C. Mednick (Under Review) REM Refines and Rescues Memory Representations: A New Theory. Sleep Advances.
-
-- Anjana Subramoniam, **Pin-Chun Chen**, Negin Sattari, Sara Mednick, Lauren Whitehurst (Under Review) Physiological sleep correlates of positive and negative affect in younger and older adults. Psychophysiology.
+- Anjana Subramoniam, **Pin-Chun Chen**, Negin Sattari, Sara Mednick, Lauren Whitehurst (Revision) Physiological sleep correlates of positive and negative affect in younger and older adults. Sleep
 
 \newpage
 \newpage
 
 **JOURNAL ARTICLES**
+
+- [**Pin-Chun Chen**, Jenny Stritzelberger, Katrin Walther, Hajo Hamer, Bernhard Staresina (2025) Hippocampal ripples during offline periods predict motor sequence learning. *Journal of Neuroscience*](https://www.jneurosci.org/content/early/2025/10/13/JNEUROSCI.1502-25.2025.long)
+
+- [Allison Morehouse, Katherine Simon, **Pin-Chun Chen**, Sara C. Mednick (2025) Heart Rate Variability During REM Sleep is Associated with Reduced Negative Memory Bias. *Front. Behav. Neurosci*](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1513655/full)
+
+- [Alessandra E. Shuster, Allison Morehouse, Elizabeth A. McDevitt, **Pin-Chun Chen**, Lauren N. Whitehurst, Jing Zhang, Negin Sattari, Tracy Uzoigwe, Ali Ekhlasi, Denise Cai, Katherine Simon, Niels Niethard, Sara C. Mednick (2025) REM Refines and Rescues Memory Representations: A New Theory. *Sleep Advances.*](https://academic.oup.com/sleepadvances/article/6/1/zpaf004/7972492)
 
 - [Alessandra Shuster, **Pin-Chun Chen**, Hamid Niknazar, Elizabeth McDevitt, Beth Lopour, and Sara Mednick. (2024) Novel Electrophysiological Signatures of Learning and Forgetting in Human REM Sleep. *Journal of Neuroscience*](https://github.com/pinchunc/papers/blob/main/jneuro_NovelElectrophysiologicalREM.pdf)
 
