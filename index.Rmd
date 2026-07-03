@@ -13,7 +13,7 @@ knitr::include_graphics(here::here("img/head.jpg"))
 
 <div class="recruit-banner">
 <span class="eyebrow">NeuroSync Lab — now recruiting</span>
-I'm building a new lab at Royal Holloway studying how the sleeping brain and body synchronise to consolidate memory. RA, PhD, and postdoc positions are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
+I'm building a new lab at Royal Holloway studying how the sleeping brain and body synchronise to consolidate memory. RA, PhD, and postdoc are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
 </div>
 
 Pin-Chun is a Lecturer in Psychology at Royal Holloway, University of London, where she leads the **NeuroSync Lab**, studying neural synchrony in sleep and memory — exploring how coordinated brain and body dynamics support human memory through multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI, and HRV), with a focus on how sleep can be harnessed to promote cognitive health and combat age-related decline.
