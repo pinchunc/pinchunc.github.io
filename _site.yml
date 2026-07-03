@@ -15,9 +15,6 @@ navbar:
     - text: "Join Us"
       href: join.html
 
-    - text: "Research"
-      href: research.html
-
     - text: "Publications"
       href: publication.html
 
