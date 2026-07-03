@@ -1,5 +1,5 @@
 name: "personal-website2"
-title: "Pin-Chun Chen | Cardiac-Neural Sleep Lab"
+title: "Pin-Chun Chen | NeuroSync Lab"
 author:
   - name: "Pin-Chun Chen"
     affiliation: "Royal Holloway, University of London"
@@ -22,16 +22,14 @@ navbar:
       href: publication.html
 
     - text: "Presentations"
-      href: talk.html
-    - menu:
+      menu:
         - text: "Oral Presentations/ Invited Talks"
           href: talk.html
         - text: "Posters/ Peer-reviewed Abstracts"
           href: poster.html
 
     - text: "Teaching"
-      href: teaching.html
-    - menu:
+      menu:
         - text: "Teaching Experience"
           href: teaching.html
         - text: "Students' Feedback"

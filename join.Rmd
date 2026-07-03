@@ -9,18 +9,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <div class="recruit-banner">
-<span class="eyebrow">SYNC Lab — Royal Holloway, University of London</span>
-The SYNC Lab is a new lab studying how the sleeping brain synchronises activity — across cortex, hippocampus, and heart — to consolidate memory. We're building our founding team now, and early members shape the lab's direction as much as its output. Research Assistants, PhD students, and postdocs are all welcome to apply — see positions below. If any of this sounds like your kind of problem, get in touch: **[pin-chun.chen@rhul.ac.uk](mailto:pin-chun.chen@rhul.ac.uk)**
+<span class="eyebrow">NeuroSync Lab — Royal Holloway, University of London</span>
+The NeuroSync Lab is a new lab studying how the heart and brain coordinate during sleep — across cortex, hippocampus, and cardiac rhythm — to consolidate memory. Research Assistants, PhD students, and postdocs are all welcome to apply — see positions below. If any of this sounds like your kind of problem, get in touch: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
 </div>
 
 ### What we work on
 
-The lab combines multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI) with autonomic measures (heart rate variability) to understand how central and autonomic signals coordinate during sleep to support memory. Recent and ongoing threads include:
+The lab combines multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI) with autonomic measures (heart rate variability) to understand how cardiac and neural signals coordinate during sleep to support memory. Recent and ongoing threads include:
 
-- Hippocampal ripples and offline motor sequence learning
-- Heart-brain (autonomic-central) coupling during NREM and REM sleep
-- Slow oscillations and their role in working memory
-- Closed-loop, sleep-stage-targeted stimulation as a tool for testing — and eventually enhancing — memory consolidation
+- Heart-brain (autonomic-central) coupling during awake and sleep states
+- Hippocampal ripples and whole-brain dynamics for memory consolidation
+- Closed-loop targeted stimulation as a tool for testing and enhancing memory
 
 ### Open positions
 
@@ -32,13 +31,13 @@ Short projects analysing existing EEG / HRV / behavioural datasets, or assisting
 
 <div class="position-card">
 <h4>Research Assistant (RA)</h4>
-Paid research support roles — data collection (EEG/HRV/behavioural), participant scheduling, and analysis support. Good fit if you've finished your degree and want research experience before a PhD. [Confirm funding/hours once a role is live.]
+Paid research support roles — data collection (EEG/HRV/behavioural), participant scheduling, and analysis support. Good fit if you've finished your degree and want research experience before a PhD.
 <div class="status">● Enquiries welcome — no fixed post open yet</div>
 </div>
 
 <div class="position-card">
 <h4>PhD Studentships</h4>
-Projects spanning sleep-dependent memory consolidation, autonomic-central coupling, and closed-loop stimulation methods. [Add funding source / studentship scheme once confirmed, e.g. departmental studentship, ESRC, etc.]
+Projects spanning sleep-dependent memory consolidation, autonomic-central coupling, and closed-loop stimulation methods. Several funding schemes (e.g. departmental studentships, UKRI, charities) we can apply for together, and I'm glad to help build a strong joint application.
 <div class="status">● Check current cycle — get in touch</div>
 </div>
 
@@ -50,8 +49,8 @@ Independent or co-developed projects; happy to discuss and support fellowship ap
 
 ### What I look for
 
-No single background is required — the lab draws on neuroscience, psychology, statistics, and signal processing. What matters more: genuine curiosity about sleep and memory, comfort with (or willingness to learn) quantitative methods, and follow-through on independent work. If you're not sure you're a fit, ask — I'd rather answer that by email than have someone rule themselves out.
+No single background is required. The lab draws on neuroscience, psychology, computational modelling, and signal processing. What matters more: genuine curiosity about sleep and memory, comfort with (or willingness to learn) quantitative methods, and follow-through on independent work. If you're not sure you're a fit, ask — I'd rather answer that by email than have someone rule themselves out.
 
 ### How to apply
 
-Email **[pin-chun.chen@rhul.ac.uk](mailto:pin-chun.chen@rhul.ac.uk)** with a CV and a short note on what specifically interests you about the lab's work — a couple of sentences pointing to a paper or theme from the [Publications](publication.html) page goes a long way further than a generic message.
+Email **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)** with a CV and a short note on what specifically interests you about the lab's work.
