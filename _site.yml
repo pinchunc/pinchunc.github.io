@@ -22,18 +22,10 @@ navbar:
       href: publication.html
 
     - text: "Presentations"
-      menu:
-        - text: "Oral Presentations/ Invited Talks"
-          href: talk.html
-        - text: "Posters/ Peer-reviewed Abstracts"
-          href: poster.html
+      href: talk.html
 
     - text: "Teaching"
-      menu:
-        - text: "Teaching Experience"
-          href: teaching.html
-        - text: "Students' Feedback"
-          href: student.html
+      href: teaching.html
 
     - text: "Education"
       href: education.html
