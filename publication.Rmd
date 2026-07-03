@@ -1,5 +1,5 @@
 ---
-title: "Peer-Reviewed Journal Publications"
+title: "Publications"
 description:
 site: distill::distill_website
 ---
@@ -7,44 +7,51 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-My [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Pin-Chun-Chen-6) Profiles
-\* co-first authors
 
-**UNDER REVIEW**
+My [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Pin-Chun-Chen-6) profiles.
 
-- Jing Zhang\*, **Pin-Chun Chen**\*, Sara C. Mednick, Arielle Tambini (Revision) Slow Oscillations Modulate Functional Brain Changes Supporting Working Memory. bioRxiv; doi: https://doi.org/10.1101/2024.05.14.594161
+*Names in **bold** indicate my authorship; \* denotes co-first authors.*
 
-- Anjana Subramoniam, **Pin-Chun Chen**, Negin Sattari, Sara Mednick, Lauren Whitehurst (Revision) Physiological sleep correlates of positive and negative affect in younger and older adults. Sleep
+### Under Review
 
-\newpage
-\newpage
+- **Chen, P.-C.**, Stritzelberger, J., Hamer, H., & Staresina, B. P. (2026). Hippocampal ripples evoke a stereotyped cortical response followed by spindle-mediated network synchronization. *bioRxiv*. [https://doi.org/10.64898/2026.05.14.725103](https://doi.org/10.64898/2026.05.14.725103)
 
-**JOURNAL ARTICLES**
+### Original Research Articles
 
-- [**Pin-Chun Chen**, Jenny Stritzelberger, Katrin Walther, Hajo Hamer, Bernhard Staresina (2025) Hippocampal ripples during offline periods predict motor sequence learning. *Journal of Neuroscience*](https://www.jneurosci.org/content/early/2025/10/13/JNEUROSCI.1502-25.2025.long)
+- Zhang, J.\*, **Chen, P.-C.**\*, Mednick, S. C., & Tambini, A. (in press). Slow oscillations modulate functional brain changes supporting working memory. *Journal of Cognitive Neuroscience*.
 
-- [Allison Morehouse, Katherine Simon, **Pin-Chun Chen**, Sara C. Mednick (2025) Heart Rate Variability During REM Sleep is Associated with Reduced Negative Memory Bias. *Front. Behav. Neurosci*](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1513655/full)
+- Subramoniam, A., **Chen, P.-C.**, Sattari, N., Mednick, S., & Whitehurst, L. (in press). Sleep dependent autonomic correlates of affect and arousal in younger and older adults. *Sleep Advances*.
 
-- [Alessandra E. Shuster, Allison Morehouse, Elizabeth A. McDevitt, **Pin-Chun Chen**, Lauren N. Whitehurst, Jing Zhang, Negin Sattari, Tracy Uzoigwe, Ali Ekhlasi, Denise Cai, Katherine Simon, Niels Niethard, Sara C. Mednick (2025) REM Refines and Rescues Memory Representations: A New Theory. *Sleep Advances.*](https://academic.oup.com/sleepadvances/article/6/1/zpaf004/7972492)
+- Jacobsen, S. S., Morehouse, A. B., **Chen, P.-C.**, Gomolka, R. S., Andersen, M., Nedergaard, M., Mednick, S. C., & Kjaerby, C. (2026). Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation. *eLife*. [Link](https://doi.org/10.7554/eLife.110252.1)
 
-- [Alessandra Shuster, **Pin-Chun Chen**, Hamid Niknazar, Elizabeth McDevitt, Beth Lopour, and Sara Mednick. (2024) Novel Electrophysiological Signatures of Learning and Forgetting in Human REM Sleep. *Journal of Neuroscience*](https://github.com/pinchunc/papers/blob/main/jneuro_NovelElectrophysiologicalREM.pdf)
+- **Chen, P.-C.**, Stritzelberger, J., Walther, K., Hamer, H., & Staresina, B. (2025). Hippocampal ripples during offline periods predict motor sequence learning. *Journal of Neuroscience*. [Link](https://www.jneurosci.org/content/early/2025/10/13/JNEUROSCI.1502-25.2025.long)
 
-- [**Pin-Chun Chen**, Jing Zhang, Julian F. Thayer, and Sara C. Mednick. (2022) Understanding the roles of central and autonomic activity during sleep in the improvement of working memory and episodic memory. *Proceedings of the National Academy of Sciences*](https://www.pnas.org/doi/full/10.1073/pnas.2123417119)
+- Morehouse, A., Simon, K., **Chen, P.-C.**, & Mednick, S. C. (2025). Heart rate variability during REM sleep is associated with reduced negative memory bias. *Frontiers in Behavioral Neuroscience*. [Link](https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2025.1513655/full)
 
-- [**Pin-Chun Chen**, Katharine C. Simon, Negin Sattari, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick. (2022) Autonomic Central Coupling during Daytime Sleep Differs between Older and Younger People. Neurobiology of Learning and Memory, 107646.](https://www.sciencedirect.com/science/article/pii/S1074742722000703)
+- Shuster, A., **Chen, P.-C.**, Niknazar, H., McDevitt, E., Lopour, B., & Mednick, S. (2024). Novel electrophysiological signatures of learning and forgetting in human REM sleep. *Journal of Neuroscience*. [Link](https://github.com/pinchunc/papers/blob/main/jneuro_NovelElectrophysiologicalREM.pdf)
 
-- [**Pin-Chun Chen**, Hamid Niknazar, William A Alaynick, Lauren N. Whitehurst, and Sara C. Mednick (2021) Competitive dynamics underlie cognitive improvements during sleep. *Proceedings of the National Academy of Sciences*, 118(51), e2109339118.](https://doi.org/10.1073/pnas.2109339118)
+- **Chen, P.-C.**, Simon, K. C., Sattari, N., Whitehurst, L. N., Naji, M., & Mednick, S. C. (2022). Autonomic-central coupling during daytime sleep differs between older and younger people. *Neurobiology of Learning and Memory*, 107646. [Link](https://www.sciencedirect.com/science/article/pii/S1074742722000703)
 
-- [**Pin-Chun Chen**, Katharine N Simon, Negin Sattari, Lauren N. Whitehurst, and Sara C. Mednick (2022) Autonomic Central Coupling during Daytime Sleep Differs between Older and Younger People. *Neurobiology of Learning and Memory*, 107646.](https://www.sciencedirect.com/science/article/pii/S1074742722000703)
+- **Chen, P.-C.**, Niknazar, H., Alaynick, W. A., Whitehurst, L. N., & Mednick, S. C. (2021). Competitive dynamics underlie cognitive improvements during sleep. *Proceedings of the National Academy of Sciences*, 118(51), e2109339118. [Link](https://doi.org/10.1073/pnas.2109339118)
 
-- [**Pin-Chun Chen**, Negin Sattari, Lauren N. Whitehurst, and Sara C. Mednick (2021) Age‐related losses in cardiac autonomic activity during a daytime nap. *Psychophysiology*, 58(7), e13701.](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13701)
+- **Chen, P.-C.**, Sattari, N., Whitehurst, L. N., & Mednick, S. C. (2021). Age-related losses in cardiac autonomic activity during a daytime nap. *Psychophysiology*, 58(7), e13701. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.13701)
 
-- [**Pin-Chun Chen**\*, Lauren N. Whitehurst\*, Mohsen Naji, and Sara C. Mednick (2020) Autonomic activity during a daytime nap facilitates working memory improvement. *Journal of Cognitive Neuroscience*, 32(10), 1963-1974.](https://github.com/pinchunc/papers/blob/main/jocn_AutonomicActivityduringaDaytimeNap.pdf)
+- **Chen, P.-C.**\*, Whitehurst, L. N.\*, Naji, M., & Mednick, S. C. (2020). Autonomic activity during a daytime nap facilitates working memory improvement. *Journal of Cognitive Neuroscience*, 32(10), 1963–1974. [Link](https://github.com/pinchunc/papers/blob/main/jocn_AutonomicActivityduringaDaytimeNap.pdf)
 
-- [**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2020) Autonomic/central coupling benefits working memory in healthy young adults. *Neurobiology of Learning and Memory*, 173, 107267.](https://www.sciencedirect.com/science/article/abs/pii/S1074742720301118)
+- **Chen, P.-C.**, Whitehurst, L. N., Naji, M., & Mednick, S. C. (2020). Autonomic/central coupling benefits working memory in healthy young adults. *Neurobiology of Learning and Memory*, 173, 107267. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1074742720301118)
 
-- [Lauren N. Whitehurst, **Pin-Chun Chen**, Mohsen Naji, and Sara C. Mednick (2020) New directions in sleep and memory research: The role of autonomic activity. *Current Opinion in Behavioral Sciences*, 33, 17-24.](https://www.sciencedirect.com/science/article/pii/S235215461930110X)
+### Reviews & Perspectives
 
-- [Dong Joo Kim, Tze-An Yuan, **Pin-Chun Chen**, Feng Liu-Smith, Natasha Atanaskova Mesinkovska, Hege Grande Sarpa (2021) Pediatric melanoma in the Hispanic population: An analysis of institutional and national data. *Pediatric Dermatology*, 38(5), 1102-1110.](https://onlinelibrary.wiley.com/doi/abs/10.1111/pde.14516)
+- Shuster, A. E., Morehouse, A., McDevitt, E. A., **Chen, P.-C.**, Whitehurst, L. N., Zhang, J., Sattari, N., Uzoigwe, T., Ekhlasi, A., Cai, D., Simon, K., Niethard, N., & Mednick, S. C. (2025). REM refines and rescues memory representations: A new theory. *Sleep Advances*, 6(1), zpaf004. [Link](https://academic.oup.com/sleepadvances/article/6/1/zpaf004/7972492)
 
-- [Dong Joo Kim, Joy Makdisi, Christina Regan, **Pin-Chun Chen**, Elizabeth Chao, Adam M. Rotunda (2020) Reconstruction of distal nasal defects using free cartilage batten grafting with secondary intention healing: a retrospective case series of 129 patients. *Dermatologic Surgery*, 47(1), 86-93.](https://journals.lww.com/dermatologicsurgery/fulltext/2021/01000/reconstruction_of_distal_nasal_defects_using_free.24.aspx)
+- **Chen, P.-C.**, Zhang, J., Thayer, J. F., & Mednick, S. C. (2022). Understanding the roles of central and autonomic activity during sleep in the improvement of working memory and episodic memory. *Proceedings of the National Academy of Sciences*. [Link](https://www.pnas.org/doi/full/10.1073/pnas.2123417119)
+
+- Whitehurst, L. N., **Chen, P.-C.**, Naji, M., & Mednick, S. C. (2020). New directions in sleep and memory research: The role of autonomic activity. *Current Opinion in Behavioral Sciences*, 33, 17–24. [Link](https://www.sciencedirect.com/science/article/pii/S235215461930110X)
+
+### Other Publications
+
+*Publications outside my main research area, from earlier collaborative work.*
+
+- Kim, D. J., Yuan, T.-A., **Chen, P.-C.**, Liu-Smith, F., Atanaskova Mesinkovska, N., & Grande Sarpa, H. (2021). Pediatric melanoma in the Hispanic population: An analysis of institutional and national data. *Pediatric Dermatology*, 38(5), 1102–1110. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/pde.14516)
+
+- Kim, D. J., Makdisi, J., Regan, C., **Chen, P.-C.**, Chao, E., & Rotunda, A. M. (2020). Reconstruction of distal nasal defects using free cartilage batten grafting with secondary intention healing: A retrospective case series of 129 patients. *Dermatologic Surgery*, 47(1), 86–93. [Link](https://journals.lww.com/dermatologicsurgery/fulltext/2021/01000/reconstruction_of_distal_nasal_defects_using_free.24.aspx)

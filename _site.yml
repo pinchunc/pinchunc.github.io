@@ -1,9 +1,9 @@
 name: "personal-website2"
-title: "Pin-Chun Chen"
+title: "Pin-Chun Chen | Cardiac-Neural Sleep Lab"
 author:
   - name: "Pin-Chun Chen"
     affiliation: "Royal Holloway, University of London"
-    email: "pin-chun.chen@rhul.ac.uk"
+    email: "pcchen.sleep@gmail.com"
 description:
 output_dir: "docs"
 navbar:
@@ -15,13 +15,14 @@ navbar:
     - text: "Join Us"
       href: join.html
 
-    - text: "Education"
-      href: education.html
+    - text: "Research"
+      href: research.html
 
     - text: "Publications"
       href: publication.html
 
     - text: "Presentations"
+      href: talk.html
     - menu:
         - text: "Oral Presentations/ Invited Talks"
           href: talk.html
@@ -29,11 +30,15 @@ navbar:
           href: poster.html
 
     - text: "Teaching"
+      href: teaching.html
     - menu:
         - text: "Teaching Experience"
           href: teaching.html
         - text: "Students' Feedback"
           href: student.html
+
+    - text: "Education"
+      href: education.html
 
     - text: "Media & News"
       href: media_news.html
