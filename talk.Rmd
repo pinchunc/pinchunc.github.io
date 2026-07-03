@@ -1,5 +1,5 @@
 ---
-title: "Oral Presentations/ Invited Talks"
+title: "Presentations & Talks"
 description:
 site: distill::distill_website
 ---
@@ -8,132 +8,107 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-**TALKS AT SCIENTIFIC CONFERENCES**
+### Invited Talks & Seminars
 
-- Simultaneous EEG-MEG sleep recording and source localization reveal precise spatial temporal distribution of spindle activity during sleep. MEG-UKI Conference, Birmingham, UK (2024, Oct)
+- From Brain Waves to Heartbeats: How Sleep Shapes Memory and Cognitive Health. Psychology Departmental Seminar, University of Essex, UK (2026, Jan)
 
-- Hippocampal ripples during offline periods predict motor sequence learning. Data Blitz at the Annual Meeting of Cognitive Neuroscience Society, Toronto, Canada (2024, April)
+- How do hippocampal ripples orchestrate cortical dynamics during human sleep? Experimental Psychology Department Seminar Series, University of Oxford, UK (2025, Nov)
 
-- Integrating measurements of the autonomic nervous system and heart-brain interactions with sleep and memory research. Speaker at the 3rd International Sleep Replay Workshop, Huntington Beach, CA, USA (2023, April)
+- From brain waves to memories: Harnessing brain imaging and AI to read the inner workings of human memory. Mind, Brain and Behaviour (MBB) Cluster Seminar, Wolfson College, Oxford, UK (2024, Nov)
 
-- Working and episodic memory vie for resources during sleep. Open-paper speaker at Learning & Memory 2023, Huntington Beach, CA, USA (2023, April)
+- SLUMBER — Spatiotemporal Localization Using MEG-EEG for Brain-wide Events during NREM. Oxford Sleep Initiative Meeting, Oxford, UK (2024, Nov)
 
-- The role of the autonomic nervous system in the science of sleep. Symposium speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+- The central-autonomic seesaw of sleep-dependent episodic memory and working memory improvements. Seminar Series, Project TYRA (Taiwanese Young Researcher Association) (2023, April)
 
-- The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. Speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+- The central-autonomic seesaw of sleep-dependent episodic memory and working memory improvements. Institute of Neuroscience Seminar, National Yang Ming Chiao Tung University, Taipei, Taiwan (2022, Oct)
 
-- Competitive dynamics underlie cognitive improvements during sleep. Speaker at the 2021 Virtual Working Memory Symposium (Virtual; 2021, June)
+- Autonomic-Central Interactions During Sleep Strongly Impacts Sleep-Dependent Cognitive Plasticity. Eisai Inc. (Virtual; 2021, May)
 
-- The sleeping brain switches between working memory and long-term memory processing. Data blitz speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA (2021, May)
+- Trusting your heart during sleep in the fight against cognitive aging. UCI Grad Slam Semi-Final Competition (Virtual; 2021, Jan)
 
-- The sleeping brain switches between frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. UCI Associated Graduate Student Virtual Symposium (Virtual; 2021, April)
+- Spindles switch the sleeping brain from frontal lobe to hippocampal processing: A pharmacology study. UCI CogSci Colloquium Flash Talks Series (Virtual; 2020, Oct)
 
-- Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory. Speaker at the 2020 Neuromatch conference 3.0 (Virtual; 2020, Oct)
+- Why do we sleep? The impacts of sleep on emotion and memory. Academic Salon, Taiwanese Graduate Student Association, UCI (2017, Dec)
 
-- Unsupervised Learning of Sleep Stages from Polysomnography (PSG) Data. Speaker at the 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
 
-- Age-related Losses in Cardiac Autonomic Activity during a Daytime Nap. Speaker at the 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
+### Conference Talks
 
-- Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Speaker at the 2020 Virtual Working Memory Symposium (Virtual; 2020, June)
+- Cortical signatures of hippocampal ripples in human sleep: From single-units, LFPs, to scalp EEG. Nanosymposium speaker, Society for Neuroscience, San Diego, CA, USA (2025, Nov)
 
-- The Roles of Autonomic Activities during Sleep on Cognition. Speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory (2019, May)
+- Cortical signatures of hippocampal ripples in human sleep — can we decode hippocampal ripples from scalp EEG? Data Blitz, 4th International Conference on Memory Replay, Cardiff, UK (2025, May)
 
+- Neural correlates of working memory improvement during sleep. Data Blitz, Winter Memory Conference, Park City, UT, USA (2025, Jan)
 
-**INVITED TALKS**
+- Simultaneous EEG-MEG sleep recording and source localization reveal precise spatial temporal distribution of spindle activity during sleep. MEG-UKI Conference, Birmingham, UK (2024, Oct) *(also presented as a poster)*
 
-- SLUMBER – Spatiotemporal Localization Using MEG-EEG for Brain-wide Events during NREM. (2024, Oct) Oxford Sleep Initiative Meeting, Oxford, UK (2024, Oct)
+- Hippocampal ripples during offline periods predict motor sequence learning. Data Blitz, Annual Meeting of the Cognitive Neuroscience Society, Toronto, Canada (2024, April) *(also presented as a poster)*
 
-- The central-autonomic seesaw of sleep-dependent episodic memory and working memory improvements. (2023, April) Seminar Series at Project TYRA (Taiwanese Young Researcher Association)
+- Integrating measurements of the autonomic nervous system and heart-brain interactions with sleep and memory research. 3rd International Sleep Replay Workshop, Huntington Beach, CA, USA (2023, April)
 
-- The central-autonomic seesaw of sleep-dependent episodic memory and working memory improvements. Institure of Neuroscience Seminar, National Yang Ming Chiao Tung University, Taipei, Taiwan (2022, Oct)
+- Working and episodic memory vie for resources during sleep. Open-paper speaker, Learning & Memory 2023, Huntington Beach, CA, USA (2023, April)
 
-- Competitive dynamics underlie cognitive improvements during sleep. Cognitive Sciences Graduate Student Presentation Bonanza, UCI, Irvine (2022, May)
+- The role of the autonomic nervous system in the science of sleep. Symposium speaker, 35th Annual Meeting of the American Academy of Sleep Medicine/APSS (Virtual; 2021, June)
 
-- Heart-brain Interaction during NREM Sleep Drives Sleep-dependent Memory Gains. Cognitive Science Dissertation Talk at UCI, Irvine (2022, May)
+- The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. 35th Annual Meeting of APSS (Virtual; 2021, June)
 
-- The role of the autonomic nervous system in the science of sleep. Symposium speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+- Competitive dynamics underlie cognitive improvements during sleep. 2021 Virtual Working Memory Symposium (Virtual; 2021, June)
 
-- The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. Speaker at the 35th Annual Meeting of the American Associated Professional Sleep Societies (Virtual; 2021, June)
+- The sleeping brain switches between working memory and long-term memory processing. Data blitz, Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA (2021, May)
 
-- Competitive dynamics underlie cognitive improvements during sleep. Speaker at the 2021 Virtual Working Memory Symposium (Virtual; 2021, June)
+- The sleeping brain switches from frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. UCI Associated Graduate Student Virtual Symposium (Virtual; 2021, April)
 
-- The sleeping brain switches between working memory and long-term memory processing. Data blitz speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory, Irvine, CA (2021, May)
+- Vagolytic effect of Zolpidem on sleep-dependent memory: A trade-off between working memory and long-term memory. 2020 Neuromatch Conference 3.0 (Virtual; 2020, Oct)
 
-- Autonomic-Central Interactions During Sleep Strongly Impacts Sleep-Dependent Cognitive Plasticity. Eisai Inc (Virtual; 2021, May)
+- Unsupervised learning of sleep stages from polysomnography (PSG) data. 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
 
-- Trust your heart in sleep to fight against cognitive aging. Speaker at UCI Center for the Neurobiology of Learning and Memory Award Ceremony, Irvine, CA (2021, May)
+- Age-related losses in cardiac autonomic activity during a daytime nap. 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
 
-- Neural mechanisms of sleep and memory consolidation. Guest lecture on Psych 129 Sleep & Memory at UCI, Virtual (Virtual; 2021, May)
+- Coupling of autonomic and central events during sleep boosts working memory in healthy young adults. 2020 Virtual Working Memory Symposium (Virtual; 2020, June)
 
-- The sleeping brain switches between frontal-subcortical working memory to hippocampal episodic memory processing during NREM sleep. UCI Associated Graduate Student Virtual Symposium (Virtual; 2021, April)
+- The roles of autonomic activities during sleep on cognition. Spring Conference at UCI Center for the Neurobiology of Learning and Memory (2019, May)
 
-- Trusting Your Heart during Sleep in the Fight Against Cognitive Aging. Speaker at the UCI Grad Slam Semi-Final Competition (Virtual; 2021, Jan)
 
-- Understanding Sleep Disorders via Subjective and Objective Assessments. Guest lecture on Psych 121S Sleep & Consciousness at UCI (Virtual; 2020, Nov)
+### Posters at Scientific Conferences
 
-- Sleep Interventions to Boost Memory. Guest lecture on Psych 121S Sleep & Consciousness at UCI (Virtual; 2020, Nov)
+- **Chen, P.-C.**, Stritzelberger, J., Hamer, H., & Staresina, B. (2025, Nov). Signatures of hippocampal ripples during human sleep: From spiking activity, LFP to scalp EEG. Human Single-Neuron Meeting 2025, Los Angeles, CA, USA.
 
-- Vagolytic effect of Zolpidem on Sleep-dependent Memory: A Trade-off between Working Memory and Long-term Memory. Speaker at the 2020 Neuromatch conference 3.0 (Virtual; 2020, Oct)
+- **Chen, P.-C.**, Stritzelberger, J., Hamer, H., & Staresina, B. (2025, April). Cortical signatures of hippocampal ripples in human sleep. Annual Meeting of the Cognitive Neuroscience Society, Boston, MA, USA.
 
-- Unsupervised Learning of Sleep Stages from Polysomnography (PSG) Data. 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
+- **Chen, P.-C.**, Zhang, J., Tambini, A., & Mednick, S. C. (2022, June). How do slow oscillation and vagal activity support working memory? An EEG/fMRI study. 35th Annual Meeting of APSS, Charlotte, NC, USA.
 
-- Age-related Losses in Cardiac Autonomic Activity during a Daytime Nap. 2nd Annual Computational Data Neuroscience Symposium (Virtual; 2020, Oct)
+- **Chen, P.-C.**, Niknazar, H., Alaynick, W. A., Whitehurst, L. N., & Mednick, S. C. (2021, Aug). Competitive dynamics underlie cognitive improvements during sleep. 41st Annual Conference of the North America Taiwanese Professors' Association (Virtual).
 
-- Spindles switch the sleeping brain from frontal lobe to hippocampal processing: a pharmacology study. Speaker at UCI CogSci Colloquium Flash Talks Series (Virtual; 2020, Oct)
+- **Chen, P.-C.**, Niknazar, H., Alaynick, W. A., Whitehurst, L. N., & Mednick, S. C. (2021, April). The sleeping brain switches between working memory and long-term memory processing. Women in STEM Symposium 2021 (Virtual).
 
-- Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Speaker at the 2020 Virtual Working Memory Symposium (Virtual; 2020, Aug)
+- **Chen, P.-C.**, Whitehurst, L. N., Naji, M., & Mednick, S. C. (2020, Aug). Age-related changes in central autonomic couplings during sleep. 34th Annual Meeting of APSS (Virtual).
 
-- Cued memory reactivation during sleep influences skill learning. Guest lecture on Psych 129 Sleep & Memory at UCI (Virtual; 2020, May)
+- **Chen, P.-C.**, Whitehurst, L. N., Naji, M., & Mednick, S. C. (2019, Sep). Coupling of autonomic and central events during sleep boosts working memory in healthy young adults. Annual Meeting of the World Sleep Congress, Vancouver, BC, Canada.
 
-- Autonomic-central couplings during Sleep Drives Sleep-dependent Working Memory Gains. Cognitive Science Advancement Talk at UCI (Virtual; 2020, May)
+- **Chen, P.-C.**, Sattari, N., Whitehurst, L. N., & Mednick, S. C. (2019, June). Parasympathetic activity during sleep, but not wake, facilitates working memory improvement: A comparison of young and older adults. Annual Meeting of the World Sleep Congress, Vancouver, BC, Canada.
 
-- Autonomic-central couplings during Sleep Drives Sleep-dependent Working Memory Gains. Cognitive Science 3rd-year Talk at UCI, Irvine (2020, May)
+- **Chen, P.-C.**, Whitehurst, L. N., Naji, M., & Mednick, S. C. (2019, June). Coupling of autonomic and central events during sleep boosts working memory in healthy young adults. Annual Meeting of APSS, San Antonio, TX, USA.
 
-- Age-related Sleep and Cognitive Declines: Sleep Disorders and Etiology. Guest lecture on Psych 121S Sleep & Consciousness at UCI (2019, Nov)
+- **Chen, P.-C.**, Whitehurst, L. N., Naji, M., & Mednick, S. C. (2018, April). A daytime nap facilitates working memory in healthy young adults. Learning & Memory 2018, Huntington Beach, CA, USA.
 
-- The Roles of Autonomic Activities during Sleep on Cognition. Speaker at the Spring Conference at UCI Center for the Neurobiology of Learning and Memory (2019, May)
+- **Chen, P.-C.**, Jan, Y.-W., & Yang, C.-M. (2016, June). Discrepancy between subjective and objective actigraphic sleep estimation for individuals with low and high sleep vulnerability. Annual Meeting of APSS, Denver, CO, USA.
 
-- Enhancing Working Memory by Closed-loop tACS during NREM Sleep. Concentration Talk at UCI (2019, Feb)
 
-- Why Do We Sleep? The Impacts of Sleep on Emotion and Memory. Guest speaker at Academic Salon at Taiwanese Graduate Student Association at UCI (2017, Dec)
+### Mentee-Led Posters
 
+- Shuster, A., **Chen, P.-C.**, Niknazar, H., McDevitt, E., Lopour, B., & Mednick, S. C. (2024, Dec). REM alpha bursts predict hippocampal-dependent forgetting. 4th International Sleep Replay Workshop (Virtual).
 
-**POSTERS AT SCIENTIFIC CONFERENCES**
+- Sha, M., **Chen, P.-C.**, Chen, Y., Foster, B., & Staresina, B. (2024, Dec). Coupled sleep rhythms in human hippocampus support memory consolidation. 4th International Sleep Replay Workshop (Virtual).
 
-**Pin-Chun Chen** and Bernhard Staresina (2024, Oct) Simultaneous EEG-MEG sleep recording and source localization reveal precise spatial temporal distribution of spindle activity during sleep. MEG-UKI Conference, Birmingham, UK
+- Morehouse, A. B., Simon, K. C., Zhang, J., **Chen, P.-C.**, Whitehurst, L. N., & Mednick, S. C. (2023, April). Does cardiac autonomic variation across sleep stages differentially impact emotional and neutral memory consolidation? Learning & Memory 2023, Huntington Beach, CA, USA.
 
-**Pin-Chun Chen**, Jing Zhang, Arielle Tambini, Sara C. Mednick (2022, June) How do Slow Oscillation and and Vagal Activity Support Working Memory? An EEG/fMRI Study. Poster presented at the 35th Annual Meeting of the American Associated Professional Sleep Societies, Charlotte, NC, USA
+- Shuster, A., **Chen, P.-C.**, Niknazar, H., & Mednick, S. C. (2023, April). Identifying novel markers of memory in REM sleep. International Conference on Learning & Memory 2023, Huntington Beach, CA, USA.
 
-**Pin-Chun Chen**, Lauren N. Whitehurst, Hamid Niknazar, William A Alaynick, Lauren N. Whitehurst, and Sara C. Mednick (2021, Aug) Competitive dynamics underlie cognitive improvements during sleep. Poster presented at the 41st Annual Conference of North America Taiwanese Professors’ Association (Virtual)
+- Subramoniam, A., **Chen, P.-C.**, Mednick, S., & Whitehurst, L. N. (2022, June). Slow oscillation power and heart rate variability during sleep predicts next-day subjective sleepiness in healthy young adults. 35th Annual Meeting of APSS, Charlotte, NC, USA.
 
-**Pin-Chun Chen**, Lauren N. Whitehurst, Hamid Niknazar, William A Alaynick, Lauren N. Whitehurst, and Sara C. Mednick (2021, April) The sleeping brain switches between working memory and long- term memory processing. Poster presented at the Women in STEM Symposium 2021 (Virtual)
+- Arumugam, A., Mair, S., Zhang, J., & **Chen, P.-C.** (2022, May). Role of sex hormones and sleep on anxiety levels. 2022 UCLA Psychology Undergraduate Research Conference (PURC).
 
-**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2020, Aug) Age-related changes in central autonomic couplings during sleep. Poster presented at the 34th Annual Meeting of the American Associated Professional Sleep Societies (Virtual)
+- Cho, S., Sam, K., Zhang, J., & **Chen, P.-C.** (2022, May). The interaction between dream recall, declarative memory, and sex hormones. 2022 UCLA Psychology Undergraduate Research Conference (PURC).
 
-**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2019, Sep) Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Poster presented at the Annual Meeting of the World Sleep Congress, Vancouver, BC, Canada
+- Delvey, C. & **Chen, P.-C.** (2018, Nov). Central autonomic couplings during sleep can predict sleep-induced working memory improvement. 2018 Southern California Conferences for Undergraduate Research.
 
-**Pin-Chun Chen**, Negin Sattari, Lauren N. Whitehurst, and Sara C. Mednick (2019, June) Parasympathetic Activity during Sleep, but not Wake, Facilitates Working Memory Improvement: A Comparison of Young and Older Adults. Poster presented at the Annual Meeting of the World Sleep Congress, Vancouver, BC, Canada
-
-**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2019, June) Coupling of Autonomic and Central events during Sleep Boosts Working Memory in Healthy Young Adults. Poster presented at the Annual Meeting of the American Associated Professional Sleep Societies, San Antonio, TX, USA
-
-**Pin-Chun Chen**, Lauren N. Whitehurst, Mohsen Naji, and Sara C. Mednick (2018, April) A Daytime Nap Facilitates Working Memory in Healthy Young Adults. Poster presented at the Learning & Memory 2018, Huntington Beach, CA, USA
-
-**Pin-Chun Chen**, Ya-Wen Jan, and Chien-Ming Yang (2016, June). Discrepancy between Subjective and Objective Actigraphic Sleep Estimation for Individuals with Low and High Sleep Vulnerability. Poster presented at the Annual Meeting of the American Associated Professional Sleep Societies, Denver, CO, USA
-
-**MENTEE-LED POSTERS**
-
-Manqi Sha, **Pin-Chun Chen**, Yvonne Chen, Brett Foster, Bernhard Staresina (2024, Dec) Coupled Sleep Rhythms in Human Hippocampus Support Memory Consolidation. Poster at the 4th International Sleep Replay Workshop (Virtual)
-
-Alison B. Morehouse, Katharine C. Simon, Jing Zhang, **Pin-Chun Chen**, Lauren N. Whitehurst, Sara C. Mednick (2023, April) Does cardiac autonomic variation across sleep stages differentially impact emotional and neutral memory consolidation? Poster at Learning & Memory 2023, Huntington Beach, CA, USA
-
-Alessandra Shuster, **Pin-Chun Chen**, Hamid Niknazar, Sara C. Mednick (2023, April) Identifying Novel Markers of Memory in REM Sleep. Poster at the International Conference on Learning & Memory 2023, Huntington Beach, CA, USA
-
-Anjana Subramoniam, **Pin-Chun Chen**, Sara Mednick, Lauren N. Whitehurst (2022, June) Slow oscillation power and heart rate variability during sleep predicts next-day subjective sleepiness in healthy young adults. Poster at the 35th Annual Meeting of the American Associated Professional Sleep Societies, Charlotte, NC, USA
-
-Ash Arumugam, Spencer Mair, Jing Zhang, **Pin-Chun Chen** (2022, May) Role of Sex Hormones and Sleep on Anxiety Levels. Poster at the 2022 UCLA Psychology Undergraduate Research Conference (PURC).
-
-Shreya Cho, Kevin Sam, Jing Zhang, **Pin-Chun Chen** (2022, May) The Interaction Between Dream Recall, Declarative Memory, and Sex Hormones. Poster at the 2022 UCLA Psychology Undergraduate Research Conference (PURC).
-
-Cassandra Delvey and **Pin-Chun Chen** (2018, Nov) Central Autonomic Couplings During Sleep Can Predict Sleep-Induced Working Memory Improvement. Poster at the 2018 Southern California Conferences for Undergraduate Research.
-
-Mathew Bayati and **Pin-Chun Chen** (2018, Nov) Age Related Changes in Central Autonomic Couplings During Sleep. Poster at the 2018 Southern California Conferences for Undergraduate Research.
+- Bayati, M. & **Chen, P.-C.** (2018, Nov). Age-related changes in central autonomic couplings during sleep. 2018 Southern California Conferences for Undergraduate Research.
