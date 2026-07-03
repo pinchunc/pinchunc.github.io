@@ -1,0 +1,57 @@
+---
+title: "Join Us"
+description:
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<div class="recruit-banner">
+<span class="eyebrow">SYNC Lab — Royal Holloway, University of London</span>
+The SYNC Lab is a new lab studying how the sleeping brain synchronises activity — across cortex, hippocampus, and heart — to consolidate memory. We're building our founding team now, and early members shape the lab's direction as much as its output. Research Assistants, PhD students, and postdocs are all welcome to apply — see positions below. If any of this sounds like your kind of problem, get in touch: **[pin-chun.chen@rhul.ac.uk](mailto:pin-chun.chen@rhul.ac.uk)**
+</div>
+
+### What we work on
+
+The lab combines multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI) with autonomic measures (heart rate variability) to understand how central and autonomic signals coordinate during sleep to support memory. Recent and ongoing threads include:
+
+- Hippocampal ripples and offline motor sequence learning
+- Heart-brain (autonomic-central) coupling during NREM and REM sleep
+- Slow oscillations and their role in working memory
+- Closed-loop, sleep-stage-targeted stimulation as a tool for testing — and eventually enhancing — memory consolidation
+
+### Open positions
+
+<div class="position-card">
+<h4>Rotation & Undergraduate Projects</h4>
+Short projects analysing existing EEG / HRV / behavioural datasets, or assisting with ongoing data collection. Good entry point if you want to try sleep research before committing to a longer project.
+<div class="status">● Open — rolling basis</div>
+</div>
+
+<div class="position-card">
+<h4>Research Assistant (RA)</h4>
+Paid research support roles — data collection (EEG/HRV/behavioural), participant scheduling, and analysis support. Good fit if you've finished your degree and want research experience before a PhD. [Confirm funding/hours once a role is live.]
+<div class="status">● Enquiries welcome — no fixed post open yet</div>
+</div>
+
+<div class="position-card">
+<h4>PhD Studentships</h4>
+Projects spanning sleep-dependent memory consolidation, autonomic-central coupling, and closed-loop stimulation methods. [Add funding source / studentship scheme once confirmed, e.g. departmental studentship, ESRC, etc.]
+<div class="status">● Check current cycle — get in touch</div>
+</div>
+
+<div class="position-card">
+<h4>Postdoctoral Researchers</h4>
+Independent or co-developed projects; happy to discuss and support fellowship applications (e.g. Marie Curie / UKRI schemes) for the right fit.
+<div class="status">● Enquiries welcome year-round</div>
+</div>
+
+### What I look for
+
+No single background is required — the lab draws on neuroscience, psychology, statistics, and signal processing. What matters more: genuine curiosity about sleep and memory, comfort with (or willingness to learn) quantitative methods, and follow-through on independent work. If you're not sure you're a fit, ask — I'd rather answer that by email than have someone rule themselves out.
+
+### How to apply
+
+Email **[pin-chun.chen@rhul.ac.uk](mailto:pin-chun.chen@rhul.ac.uk)** with a CV and a short note on what specifically interests you about the lab's work — a couple of sentences pointing to a paper or theme from the [Publications](publication.html) page goes a long way further than a generic message.

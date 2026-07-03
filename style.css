@@ -103,6 +103,8 @@ html, d-article p {
   font-size: 1em;
   color: var(--ink-text);
   font-style: normal;
+  text-align: justify;
+  hyphens: auto;
 }
 
 d-article strong { color: var(--ink); font-weight: 700; }
@@ -166,10 +168,17 @@ d-byline a { color: var(--slate); text-decoration: none; border-bottom: 1px dott
   font-family: 'Public Sans', sans-serif;
   margin: 28px 0 36px;
 }
+.recruit-banner p,
+d-article .recruit-banner p{
+  color: var(--mist);
+}
 .recruit-banner a{
   color: var(--dawn);
   font-weight: 600;
   text-decoration-color: var(--dawn);
+}
+.recruit-banner strong{
+  color: var(--mist);
 }
 .recruit-banner .eyebrow{
   font-family: 'IBM Plex Mono', monospace;
