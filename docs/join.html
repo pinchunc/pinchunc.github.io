@@ -2144,14 +2144,35 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   /* ---------- Nav bar ---------- */
+  .distill-site-header{
+    background-color: var(--ink);
+    overflow: visible;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
   .distill-site-nav{
     color: var(--mist);
     background-color: var(--ink);
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.01em;
     border-bottom: 3px solid var(--dawn);
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+  .distill-site-nav .nav-right{
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+  }
+  .distill-site-nav input[type="text"],
+  .distill-site-nav input[type="search"]{
+    width: 140px;
   }
   .distill-site-nav a {
     color: var(--mist);
@@ -2164,6 +2185,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
   .distill-site-nav .nav-dropdown-content {
     background-color: var(--ink);
+    white-space: nowrap;
   }
   .distill-site-nav .nav-dropdown-content a {
     color: var(--mist);
@@ -2379,7 +2401,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="join.html">Join Us</a>
-<a href="research.html">Research</a>
 <a href="publication.html">Publications</a>
 <div class="nav-dropdown">
 <button class="nav-dropbtn">
@@ -2427,7 +2448,7 @@ Teaching
 <div class="d-article">
 <div class="recruit-banner">
 <p><span class="eyebrow">NeuroSync Lab — Royal Holloway, University of London</span>
-The NeuroSync Lab is a new lab studying how the heart and brain coordinate during sleep — across cortex, hippocampus, and cardiac rhythm — to consolidate memory. Research Assistants, PhD students, and postdocs are all welcome to apply — see positions below. If any of this sounds like your kind of problem, get in touch: <strong><a href="mailto:pcchen.sleep@gmail.com">pcchen.sleep@gmail.com</a></strong></p>
+The NeuroSync Lab is a new lab studying how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply — see positions below. If any of this sounds like your kind of problem, get in touch: <strong><a href="mailto:pcchen.sleep@gmail.com">pcchen.sleep@gmail.com</a></strong></p>
 </div>
 <h3 id="what-we-work-on">What we work on</h3>
 <p>The lab combines multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI) with autonomic measures (heart rate variability) to understand how cardiac and neural signals coordinate during sleep to support memory. Recent and ongoing threads include:</p>

@@ -2147,14 +2147,35 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   /* ---------- Nav bar ---------- */
+  .distill-site-header{
+    background-color: var(--ink);
+    overflow: visible;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
   .distill-site-nav{
     color: var(--mist);
     background-color: var(--ink);
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.01em;
     border-bottom: 3px solid var(--dawn);
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+  .distill-site-nav .nav-right{
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+  }
+  .distill-site-nav input[type="text"],
+  .distill-site-nav input[type="search"]{
+    width: 140px;
   }
   .distill-site-nav a {
     color: var(--mist);
@@ -2167,6 +2188,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
   .distill-site-nav .nav-dropdown-content {
     background-color: var(--ink);
+    white-space: nowrap;
   }
   .distill-site-nav .nav-dropdown-content a {
     color: var(--mist);
@@ -2382,7 +2404,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="index.html">Home</a>
 <a href="join.html">Join Us</a>
-<a href="research.html">Research</a>
 <a href="publication.html">Publications</a>
 <div class="nav-dropdown">
 <button class="nav-dropbtn">
@@ -2432,17 +2453,14 @@ Teaching
 <div class="layout-chunk" data-layout="l-body">
 <p><img src="img/head.jpg" width="30%" /></p>
 </div>
-<h3 id="neurosync-lab">NeuroSync Lab</h3>
-<p><strong>Neural Synchrony in Sleep &amp; Memory</strong></p>
-<p>Exploring how coordinated brain and body dynamics support human memory through multimodal neuroimaging.</p>
 <div class="recruit-banner">
 <p><span class="eyebrow">NeuroSync Lab — now recruiting</span>
 I’m building a new lab at Royal Holloway studying how the sleeping brain and body synchronise to consolidate memory. RA, PhD, and postdoc positions are all welcome — see <strong><a href="join.html">Join Us</a></strong> for details, or email me directly: <strong><a href="mailto:pcchen.sleep@gmail.com">pcchen.sleep@gmail.com</a></strong></p>
 </div>
-<p>Pin-Chun is a Lecturer in Psychology at Royal Holloway, University of London. Her research leverages multimodal neuroimaging techniques to understand the neural mechanisms of learning and memory through the lens of sleep, and to explore how sleep can be harnessed to promote cognitive health and combat disease and age-related cognitive decline.
-Previously, she was a Marie Skłodowska-Curie Postdoctoral Fellow working with <a href="https://www.psy.ox.ac.uk/people/bernhard-staresina">Dr. Bernhard Staresina</a> in the Department of Experimental Psychology at the University of Oxford, UK, and <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p9416634">Dr. Brett Foster</a> at the Perelman School of Medicine at the University of Pennsylvania, USA.</p>
-<p>She earned her Ph.D. in Cognitive Sciences from the University of California, Irvine, in 2022 under the supervision of <a href="http://sleepandcognitionlab.org">Dr. Sara Mednick</a>. The central focus of her research is to utilize advanced neuroimaging techniques during sleep to characterize signatures of memory processing that enhance our congitive functions. A list of her peer-reviewed manuscripts and abstracts can be found on <a href="https://scholar.google.com/citations?user=zhIGL70AAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>.</p>
-<p>Pin-Chun was born and grew up in Kaohsiung, a city in southern Taiwan. In 2013, she moved to Taipei to pursue undergraduate studies at National Chengchi University, where she worked with Dr. Chien-Ming Yang in the Sleep Lab. In 2017, she received my B.S. in Psychology and B.Ed. in Education with 1st Class Honors. After graduation, Pin-Chun moved to the United States to work on my Ph.D. research with Dr. Sara Mednick in the Sleep and Cognition Lab at the University of California, Irvine. While pursuing her PhD, she completed a Master in Statistics from the Department of Statistics at UC Irvine in 2020.</p>
+<p>Pin-Chun is a Lecturer in Psychology at Royal Holloway, University of London, where she leads the <strong>NeuroSync Lab</strong>, studying neural synchrony in sleep and memory — exploring how coordinated brain and body dynamics support human memory through multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI, and HRV), with a focus on how sleep can be harnessed to promote cognitive health and combat age-related decline.</p>
+<p>She earned her Ph.D. in Cognitive Sciences from the University of California, Irvine (2022), under the supervision of <a href="http://sleepandcognitionlab.org">Dr. Sara Mednick</a>, along with an M.S. in Statistics from the same institution. She then held a Marie Skłodowska-Curie Postdoctoral Fellowship with <a href="https://www.psy.ox.ac.uk/people/bernhard-staresina">Dr. Bernhard Staresina</a> at the University of Oxford and <a href="https://www.med.upenn.edu/apps/faculty/index.php/g275/p9416634">Dr. Brett Foster</a> at the University of Pennsylvania. A full list of her publications is on <a href="https://scholar.google.com/citations?user=zhIGL70AAAAJ&amp;hl=en&amp;oi=ao">Google Scholar</a>.</p>
+<p>Originally from Kaohsiung, Taiwan, Pin-Chun completed her B.S. in Psychology and B.Ed. in Education at National Chengchi University, Taipei, working with Dr. Chien-Ming Yang in the Sleep Lab, before moving to the U.S. for her Ph.D.</p>
+<p>As a queer international woman in STEM, Pin-Chun is committed to building a lab culture that is inclusive and welcoming to people of all backgrounds and identities.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

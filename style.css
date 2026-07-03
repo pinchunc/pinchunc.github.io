@@ -35,14 +35,35 @@ body {
 }
 
 /* ---------- Nav bar ---------- */
+.distill-site-header{
+  background-color: var(--ink);
+  overflow: visible;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
 .distill-site-nav{
   color: var(--mist);
   background-color: var(--ink);
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 500;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
   border-bottom: 3px solid var(--dawn);
+  flex-wrap: nowrap !important;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+.distill-site-nav .nav-right{
+  flex-wrap: nowrap !important;
+  white-space: nowrap;
+}
+.distill-site-nav input[type="text"],
+.distill-site-nav input[type="search"]{
+  width: 140px;
 }
 .distill-site-nav a {
   color: var(--mist);
@@ -55,6 +76,7 @@ body {
 }
 .distill-site-nav .nav-dropdown-content {
   background-color: var(--ink);
+  white-space: nowrap;
 }
 .distill-site-nav .nav-dropdown-content a {
   color: var(--mist);
