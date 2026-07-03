@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="recruit-banner">
 <span class="eyebrow">NeuroSync Lab — Royal Holloway, University of London</span>
-The NeuroSync Lab is a new lab studying how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply — see positions below. If any of this sounds like your kind of problem, get in touch: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
+The NeuroSync Lab is a new lab studying how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply. Get in touch: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
 </div>
 
 ### What we work on
@@ -24,7 +24,7 @@ The lab combines multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI) with
 ### Open positions
 
 <div class="position-card">
-<h4>Rotation & Undergraduate Projects</h4>
+<h4>Undergraduate Projects</h4>
 Short projects analysing existing EEG / HRV / behavioural datasets, or assisting with ongoing data collection. Good entry point if you want to try sleep research before committing to a longer project.
 <div class="status">● Open — rolling basis</div>
 </div>
