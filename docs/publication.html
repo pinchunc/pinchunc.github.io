@@ -88,20 +88,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>Pin-Chun Chen | Cardiac-Neural Sleep Lab: Publications</title>
+  <title>Pin-Chun Chen | NeuroSync Lab: Publications</title>
 
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="Pin-Chun Chen | Cardiac-Neural Sleep Lab: Publications"/>
+  <meta property="og:title" content="Pin-Chun Chen | NeuroSync Lab: Publications"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content="Pin-Chun Chen | Cardiac-Neural Sleep Lab"/>
+  <meta property="og:site_name" content="Pin-Chun Chen | NeuroSync Lab"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="Pin-Chun Chen | Cardiac-Neural Sleep Lab: Publications"/>
+  <meta property="twitter:title" content="Pin-Chun Chen | NeuroSync Lab: Publications"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
@@ -2144,14 +2144,35 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   /* ---------- Nav bar ---------- */
+  .distill-site-header{
+    background-color: var(--ink);
+    overflow: visible;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
   .distill-site-nav{
     color: var(--mist);
     background-color: var(--ink);
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.01em;
     border-bottom: 3px solid var(--dawn);
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+  .distill-site-nav .nav-right{
+    flex-wrap: nowrap !important;
+    white-space: nowrap;
+  }
+  .distill-site-nav input[type="text"],
+  .distill-site-nav input[type="search"]{
+    width: 140px;
   }
   .distill-site-nav a {
     color: var(--mist);
@@ -2164,6 +2185,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
   .distill-site-nav .nav-dropdown-content {
     background-color: var(--ink);
+    white-space: nowrap;
   }
   .distill-site-nav .nav-dropdown-content a {
     color: var(--mist);
@@ -2373,7 +2395,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a href="index.html" class="title">Pin-Chun Chen | Cardiac-Neural Sleep Lab</a>
+<a href="index.html" class="title">Pin-Chun Chen | NeuroSync Lab</a>
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
 <div class="nav-right">
@@ -2382,27 +2404,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="research.html">Research</a>
 <a href="publication.html">Publications</a>
 <a href="talk.html">Presentations</a>
-<div class="nav-dropdown">
-<button class="nav-dropbtn">
- 
-<span class="down-arrow">&#x25BE;</span>
-</button>
-<div class="nav-dropdown-content">
-<a href="talk.html">Oral Presentations/ Invited Talks</a>
-<a href="poster.html">Posters/ Peer-reviewed Abstracts</a>
-</div>
-</div>
 <a href="teaching.html">Teaching</a>
-<div class="nav-dropdown">
-<button class="nav-dropbtn">
- 
-<span class="down-arrow">&#x25BE;</span>
-</button>
-<div class="nav-dropdown-content">
-<a href="teaching.html">Teaching Experience</a>
-<a href="student.html">Students' Feedback</a>
-</div>
-</div>
 <a href="education.html">Education</a>
 <a href="media_news.html">Media &amp; News</a>
 <a href="awards.html">Awards</a>
