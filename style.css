@@ -1,10 +1,10 @@
 /* ============================================================
-   SYNC Lab — Distill site theme
+   NeuroSync Lab — Distill site theme
    Palette:
-     --ink     #10152A  (nav / footer, "night")
+     --ink     #202A30  (nav / footer — Royal Holloway "Slate Grey")
      --mist    #F4F5F8  (page background, "waking")
-     --dawn    #E7A94C  (accent — links, hover, highlights)
-     --dawn-dim#B9853B  (accent, darker — for AA contrast on light bg)
+     --dawn    #EB641E  (accent — Royal Holloway "Brick Orange")
+     --dawn-dim#B84D14  (accent, darker — for AA contrast on light bg)
      --slate   #5B6178  (secondary text)
      --ink-text#181D33  (body text on light background)
    Fonts:
@@ -16,12 +16,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
 
 :root{
-  --ink:#10152A;
+  --ink:#202A30;
   --mist:#F4F5F8;
-  --dawn:#E7A94C;
-  --dawn-dim:#B9853B;
+  --dawn:#EB641E;
+  --dawn-dim:#B84D14;
   --slate:#5B6178;
   --ink-text:#181D33;
+}
+
+/* ---------- Title spacing ---------- */
+d-title{
+  display: block !important;
+  margin-top: 0 !important;
+  padding-top: 72px !important;
 }
 
 /* ---------- Page base ---------- */
@@ -36,11 +43,9 @@ body {
 
 /* ---------- Nav bar ---------- */
 .distill-site-header{
-  background-color: var(--ink);
+  background-color: var(--ink) !important;
   overflow: visible;
-  position: sticky;
-  top: 0;
-  z-index: 100;
+  position: static !important;
 }
 .distill-site-nav{
   color: var(--mist);
@@ -83,7 +88,7 @@ body {
 }
 .distill-site-nav .nav-dropdown-content a:hover {
   color: var(--dawn);
-  background-color: rgba(231,169,76,0.08);
+  background-color: rgba(235,100,30,0.08);
 }
 
 /* ---------- Headings ---------- */
@@ -242,6 +247,39 @@ d-article .recruit-banner p{
   color: var(--dawn);
   display: block;
   margin-bottom: 8px;
+}
+
+/* ---------- Tables (teaching evals, etc.) ---------- */
+d-article table{
+  background-color: white;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  font-size: 0.92rem;
+}
+d-article th, d-article td{
+  padding: 10px 12px;
+  text-align: left;
+  border: 1px solid rgba(16,21,42,0.12);
+}
+d-article th{
+  background-color: var(--ink);
+  color: var(--mist);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.03em;
+  font-weight: 500;
+}
+
+/* ---------- Testimonial quotes ---------- */
+.quote-card{
+  border-left: 3px solid var(--dawn);
+  background: white;
+  padding: 16px 20px;
+  margin-bottom: 14px;
+  font-style: italic;
+  color: var(--ink-text);
+  font-size: 0.95rem;
 }
 
 /* ---------- Position cards (join.Rmd) ---------- */
