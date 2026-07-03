@@ -1,9 +1,9 @@
 name: "personal-website2"
-title: "Pin-Chun Chen"
+title: "Pin-Chun Chen | SYNC Lab"
 author:
   - name: "Pin-Chun Chen"
-    affiliation: "Your Affiliation"
-    email: "your.email@example.com"
+    affiliation: "Royal Holloway, University of London"
+    email: "pin-chun.chen@rhul.ac.uk"
 description:
 output_dir: "docs"
 navbar:
@@ -11,37 +11,39 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-      
+
+    - text: "Join Us"
+      href: join.html
+
     - text: "Education"
       href: education.html
-      
+
     - text: "Publications"
       href: publication.html
-      
+
     - text: "Presentations"
     - menu:
         - text: "Oral Presentations/ Invited Talks"
           href: talk.html
         - text: "Posters/ Peer-reviewed Abstracts"
           href: poster.html
-          
+
     - text: "Teaching"
     - menu:
         - text: "Teaching Experience"
           href: teaching.html
         - text: "Students' Feedback"
           href: student.html
-      
+
     - text: "Media & News"
       href: media_news.html
-      
+
     - text: "Awards"
       href: awards.html
-                      
+
     - text: "CV"
       href: cv.html
 
-output: 
+output:
   distill::distill_article:
     css: style.css
-
