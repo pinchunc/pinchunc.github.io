@@ -8,7 +8,7 @@ site: distill::distill_website
 ---
 <div class="recruit-banner">
 <span class="eyebrow">NeuroSync Lab — now recruiting</span>
-I'm building a new lab at Royal Holloway studying how the sleeping brain and body synchronise to consolidate memory. RA, PhD, and postdoc are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
+I'm building a new lab at Royal Holloway! RA, PhD, and postdoc are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
 </div>
 
 ```{r echo = FALSE, out.width="30%"}
@@ -16,7 +16,7 @@ knitr::include_graphics(here::here("img/head.jpg"))
 # , fig.align='center', out.extra='style="background-color:#190ee8; padding:2px;"'
 ```
 
-Pin-Chun is a Lecturer in Psychology at Royal Holloway, University of London, where she leads the **NeuroSync Lab**, studying neural synchrony in sleep and memory, exploring how coordinated brain and body dynamics support human memory through multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI, and HRV), with a focus on how sleep can be harnessed to promote cognitive health and combat age-related decline.
+Pin-Chun is a Lecturer (Assistant Professor) in Psychology at Royal Holloway, University of London, where she leads the **NeuroSync Lab**, studying neural synchrony in sleep and memory, exploring how coordinated brain and body dynamics support human memory through multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI, and HRV), with a focus on how sleep can be harnessed to promote cognitive health and combat age-related decline.
 
 She earned her Ph.D. in Cognitive Sciences from the University of California, Irvine (2022), under the supervision of [Dr. Sara Mednick](http://sleepandcognitionlab.org), along with an M.S. in Statistics from the same institution. She then held a Marie Skłodowska-Curie Postdoctoral Fellowship with [Dr. Bernhard Staresina](https://www.psy.ox.ac.uk/people/bernhard-staresina) at the University of Oxford and [Dr. Brett Foster](https://www.med.upenn.edu/apps/faculty/index.php/g275/p9416634) at the University of Pennsylvania. A full list of her publications is on [Google Scholar](https://scholar.google.com/citations?user=zhIGL70AAAAJ&hl=en&oi=ao).
 
