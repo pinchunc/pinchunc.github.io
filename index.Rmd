@@ -6,15 +6,15 @@ description: |
   Human Memory | Sleep | EEG | Intracranial EEG | fMRI | MEG | HRV
 site: distill::distill_website
 ---
-```{r echo = FALSE, out.width="30%"}
-knitr::include_graphics(here::here("img/head.jpg"))
-# , fig.align='center', out.extra='style="background-color:#190ee8; padding:2px;"'
-```
-
 <div class="recruit-banner">
 <span class="eyebrow">NeuroSync Lab — now recruiting</span>
 I'm building a new lab at Royal Holloway studying how the sleeping brain and body synchronise to consolidate memory. RA, PhD, and postdoc are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
 </div>
+
+```{r echo = FALSE, out.width="30%"}
+knitr::include_graphics(here::here("img/head.jpg"))
+# , fig.align='center', out.extra='style="background-color:#190ee8; padding:2px;"'
+```
 
 Pin-Chun is a Lecturer in Psychology at Royal Holloway, University of London, where she leads the **NeuroSync Lab**, studying neural synchrony in sleep and memory, exploring how coordinated brain and body dynamics support human memory through multimodal neuroimaging (EEG, intracranial EEG, MEG, fMRI, and HRV), with a focus on how sleep can be harnessed to promote cognitive health and combat age-related decline.
 
