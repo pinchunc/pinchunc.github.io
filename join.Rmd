@@ -9,8 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <div class="recruit-banner">
-<span class="eyebrow">NeuroSync Lab — Royal Holloway, University of London</span>
-The NeuroSync Lab studies how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply. Get in touch: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
+<span class="eyebrow">Join us at Royal Holloway, University of London</span>
+Interested in working with us? We study how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply. Get in touch: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
 </div>
 
 ### What we work on
