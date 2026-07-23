@@ -8,7 +8,7 @@ site: distill::distill_website
 ---
 <div class="recruit-banner">
 <span class="eyebrow">Now recruiting</span>
-I'm building a team at Royal Holloway! RA, PhD, and postdoc are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
+I'm building a team at Royal Holloway! RA, PhD, and postdoc are all welcome — see **[Join Us](join.html)** for details, or email me directly: **[Pin-Chun.Chen@rhul.ac.uk](mailto:Pin-Chun.Chen@rhul.ac.uk)**
 </div>
 
 ```{r echo = FALSE, out.width="30%"}

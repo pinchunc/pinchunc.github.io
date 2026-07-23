@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <div class="recruit-banner">
 <span class="eyebrow">Join us at Royal Holloway, University of London</span>
-Interested in working with us? We study how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply. Get in touch: **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)**
+Interested in working with us? We study how the heart and brain coordinate during sleep to consolidate memory and facilitate adaptive behaviours. Research Assistants, PhD students, and postdocs are all welcome to apply. Get in touch: **[Pin-Chun.Chen@rhul.ac.uk](mailto:Pin-Chun.Chen@rhul.ac.uk)**
 </div>
 
 ### What we work on
@@ -53,4 +53,4 @@ No single background is required. The lab draws on neuroscience, psychology, com
 
 ### How to apply
 
-Email **[pcchen.sleep@gmail.com](mailto:pcchen.sleep@gmail.com)** with a CV and a short note on what specifically interests you about the lab's work.
+Email **[Pin-Chun.Chen@rhul.ac.uk](mailto:Pin-Chun.Chen@rhul.ac.uk)** with a CV and a short note on what specifically interests you about the lab's work.

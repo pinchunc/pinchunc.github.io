@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Awards & Honors
+- 2026 Travel Grant ($500), Sleep Europe 2026
+- 2025 Trainee Professional Development Award ($3,000), Society for Neuroscience
 - 2025 Post-Doctoral Fellow Award, Cognitive Neuroscience Society
 - 2024 Best Poster Presentation Award, MEG-UKI Conference
 - 2024-2026	Junior Research Fellowship (£10K), Wolfson College, University of Oxford
